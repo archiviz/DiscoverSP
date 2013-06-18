@@ -566,8 +566,7 @@ namespace DiscoverSharepointWeb
         /// <returns>String representation of the realm GUID</returns>
         public static string GetRealmFromTargetUrl(Uri targetApplicationUri)
         {
-            Uri finaluri = new Uri targetApplicationUri + "/_vti_bin/client.svc";
-            WebRequest request = WebRequest.Create(finaluri);
+            WebRequest request = WebRequest.Create(targetApplicationUri + "/_vti_bin/client.svc");
             request.Headers.Add("Authorization: Bearer ");
 
             try
