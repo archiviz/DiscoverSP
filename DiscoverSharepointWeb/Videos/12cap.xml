@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/2006/10/ttaf1" xmlns:ttp="http://www.w3.org/2006/10/ttaf1#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/2006/10/ttaf1#style" xml:lang="en" xmlns:ttm="http://www.w3.org/2006/10/ttaf1#metadata">
+  <head>
+    <metadata>
+      <ttm:title>12cap</ttm:title>
+    </metadata>
+    <styling>
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+  </head>
+  <body tts:textAlign="center" style="s0">
+    <div>
+      <p begin="00:00:05.393" id="p0" end="00:00:06.964">Now let's see how you can discover</p>
+      <p begin="00:00:06.965" id="p1" end="00:00:09.522">the experts within your organization.</p>
+      <p begin="00:00:09.523" id="p2" end="00:00:12.324">For example, let's search<br />for Marketing Campaigns</p>
+      <p begin="00:00:12.325" id="p3" end="00:00:14.224">and filter it out to so that we get results</p>
+      <p begin="00:00:14.225" id="p4" end="00:00:16.240">for People only.</p>
+      <p begin="00:00:16.241" id="p5" end="00:00:17.774">Right at the top, we can see people</p>
+      <p begin="00:00:17.775" id="p6" end="00:00:19.292">who have actually worked before</p>
+      <p begin="00:00:19.293" id="p7" end="00:00:21.075">on some marketing campaigns.</p>
+      <p begin="00:00:21.076" id="p8" end="00:00:22.550">Refiners are on the left.</p>
+      <p begin="00:00:22.551" id="p9" end="00:00:24.577">They help you filter your search results.</p>
+      <p begin="00:00:24.578" id="p10" end="00:00:27.018">Refiners vary based on<br />what you're looking for</p>
+      <p begin="00:00:27.019" id="p11" end="00:00:29.311">and will adjust automatically<br />to your needs.</p>
+      <p begin="00:00:29.312" id="p12" end="00:00:31.529">What's really great is that<br />without having to click</p>
+      <p begin="00:00:31.530" id="p13" end="00:00:33.333">on each result, you can just point to</p>
+      <p begin="00:00:33.334" id="p14" end="00:00:35.053">someone's name and a Hover Panel</p>
+      <p begin="00:00:35.054" id="p15" end="00:00:37.247">pops up with more info about them,</p>
+      <p begin="00:00:37.248" id="p16" end="00:00:40.622">like skills, interests,<br />connections, what projects</p>
+      <p begin="00:00:40.623" id="p17" end="00:00:42.500">they've worked on in the<br />past, and what they're</p>
+      <p begin="00:00:42.501" id="p18" end="00:00:43.921">working on now.</p>
+      <p begin="00:00:43.922" id="p19" end="00:00:45.969">Let's take a look at Garth's profile.</p>
+      <p begin="00:00:45.970" id="p20" end="00:00:48.464">Here's a trick to make<br />your profile more popular</p>
+      <p begin="00:00:48.465" id="p21" end="00:00:49.429">in search results.</p>
+      <p begin="00:00:49.430" id="p22" end="00:00:51.690">Since people search for not just your name</p>
+      <p begin="00:00:51.691" id="p23" end="00:00:54.195">but also the work you do, keep your profile</p>
+      <p begin="00:00:54.196" id="p24" end="00:00:56.747">updated for all key areas.</p>
+      <p begin="00:00:56.748" id="p25" end="00:00:59.284">So let's see how you can<br />update your profile.</p>
+      <p begin="00:00:59.285" id="p26" end="00:01:01.056">This is where you go to add more detail</p>
+      <p begin="00:01:01.057" id="p27" end="00:01:03.349">about yourself, like new skills.</p>
+      <p begin="00:01:03.350" id="p28" end="00:01:05.450">When you're finished,<br />just save your changes</p>
+      <p begin="00:01:05.451" id="p29" end="00:01:07.668">and close the profile.</p>
+      <p begin="00:01:09.833" id="p30" end="00:01:11.436">You can also perform a search across</p>
+      <p begin="00:01:11.437" id="p31" end="00:01:13.505">existing conversations on newsfeeds</p>
+      <p begin="00:01:13.506" id="p32" end="00:01:15.883">or community sites.</p>
+      <p begin="00:01:17.008" id="p33" end="00:01:18.579">As you can see, the search returns</p>
+      <p begin="00:01:18.580" id="p34" end="00:01:20.202">a list of discussions.</p>
+      <p begin="00:01:20.203" id="p35" end="00:01:22.548">Hover over any conversation for a preview,</p>
+      <p begin="00:01:22.549" id="p36" end="00:01:26.146">and then click on View<br />Discussion to see more.</p>
+      <p begin="00:01:26.147" id="p37" end="00:01:28.369">By discovering answers and<br />experts from people's</p>
+      <p begin="00:01:28.370" id="p38" end="00:01:31.224">conversations on newsfeeds<br />and community sites,</p>
+      <p begin="00:01:31.225" id="p39" end="00:01:32.657">you can benefit from the knowledge</p>
+      <p begin="00:01:32.658" id="p40" end="00:01:36.636">that spreads across your organization!</p>
+    </div>
+  </body>
+</tt>

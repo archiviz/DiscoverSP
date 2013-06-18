@@ -1,0 +1,73 @@
+WEBVTT
+
+0:00:05.820 --> 0:00:07.709
+Now it's time to create a dashboard
+
+0:00:07.710 --> 0:00:10.952
+to visualize and share our insights.
+
+0:00:10.953 --> 0:00:13.378
+For this, let's create a Power View report
+
+0:00:13.379 --> 0:00:16.900
+from scratch so you can see how easy it is.
+
+0:00:17.728 --> 0:00:19.991
+First, let's add a title.
+
+0:00:22.860 --> 0:00:24.598
+Then, let's add the first chart in the
+
+0:00:24.599 --> 0:00:27.257
+upper left corner as a map to look at
+
+0:00:27.258 --> 0:00:30.698
+the satisfaction scores by regions.
+
+0:00:35.562 --> 0:00:38.489
+Now, we add a simple 2-dimension bar chart
+
+0:00:38.490 --> 0:00:40.005
+that shows the gross margins by
+
+0:00:40.006 --> 0:00:42.583
+categories of products.
+
+0:00:51.552 --> 0:00:53.453
+Then, let's create a clustered chart
+
+0:00:53.454 --> 0:00:55.961
+that allows an additional
+dimension to analyze
+
+0:00:55.962 --> 0:00:58.247
+the total sales amount based on brands
+
+0:00:58.248 --> 0:01:01.324
+and categories of the products.
+
+0:01:02.875 --> 0:01:05.395
+Finally, we add a scatter chart to display
+
+0:01:05.396 --> 0:01:07.377
+multiple dimensions, as well as their
+
+0:01:07.378 --> 0:01:10.317
+correlation based on
+sales amount, quantity,
+
+0:01:10.318 --> 0:01:12.719
+and margin over time.
+
+0:01:31.158 --> 0:01:33.592
+Now I can share this report on SharePoint
+
+0:01:33.593 --> 0:01:35.428
+so my colleagues can offer feedback
+
+0:01:35.429 --> 0:01:37.280
+and visualize the data themselves,
+
+0:01:37.281 --> 0:01:41.073
+and our executives can
+monitor our business.

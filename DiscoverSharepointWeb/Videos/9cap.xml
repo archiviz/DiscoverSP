@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/2006/10/ttaf1" xmlns:ttp="http://www.w3.org/2006/10/ttaf1#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/2006/10/ttaf1#style" xml:lang="en" xmlns:ttm="http://www.w3.org/2006/10/ttaf1#metadata">
+  <head>
+    <metadata>
+      <ttm:title>9cap</ttm:title>
+    </metadata>
+    <styling>
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+  </head>
+  <body tts:textAlign="center" style="s0">
+    <div>
+      <p begin="00:00:05.491" id="p0" end="00:00:07.934">As projects spread across<br />your organization,</p>
+      <p begin="00:00:07.935" id="p1" end="00:00:10.989">it can be challenging to<br />stay on top of everything.</p>
+      <p begin="00:00:10.990" id="p2" end="00:00:12.240">So you don't miss a thing,</p>
+      <p begin="00:00:12.241" id="p3" end="00:00:14.247">you now can get an aggregated view</p>
+      <p begin="00:00:14.248" id="p4" end="00:00:16.836">of all your to-do items<br />coming from SharePoint,</p>
+      <p begin="00:00:16.837" id="p5" end="00:00:19.251">Outlook, and Project.</p>
+      <p begin="00:00:19.252" id="p6" end="00:00:20.826">That means one single view</p>
+      <p begin="00:00:20.827" id="p7" end="00:00:22.340">of your personal tasks,</p>
+      <p begin="00:00:22.341" id="p8" end="00:00:24.755">as well as tasks coming<br />from various projects</p>
+      <p begin="00:00:24.756" id="p9" end="00:00:27.382">you're working on.</p>
+      <p begin="00:00:27.383" id="p10" end="00:00:30.911">You can even sync those<br />tasks directly in Outlook.</p>
+      <p begin="00:00:30.912" id="p11" end="00:00:33.081">Simply click Tasks in the menu bar,</p>
+      <p begin="00:00:33.082" id="p12" end="00:00:36.600">and then click the Sync to Outlook button.</p>
+      <p begin="00:00:39.170" id="p13" end="00:00:40.773">That's all there is to it.</p>
+      <p begin="00:00:40.774" id="p14" end="00:00:44.146">To confirm, just go to Outlook,</p>
+      <p begin="00:00:44.147" id="p15" end="00:00:47.474">click Tasks, and see<br />that all of your content</p>
+      <p begin="00:00:47.475" id="p16" end="00:00:50.100">is now in sync.</p>
+    </div>
+  </body>
+</tt>

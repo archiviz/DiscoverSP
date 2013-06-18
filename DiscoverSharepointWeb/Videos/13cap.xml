@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/2006/10/ttaf1" xmlns:ttp="http://www.w3.org/2006/10/ttaf1#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/2006/10/ttaf1#style" xml:lang="en" xmlns:ttm="http://www.w3.org/2006/10/ttaf1#metadata">
+  <head>
+    <metadata>
+      <ttm:title>13cap</ttm:title>
+    </metadata>
+    <styling>
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+  </head>
+  <body tts:textAlign="center" style="s0">
+    <div>
+      <p begin="00:00:05.435" id="p0" end="00:00:07.018">We are all used to searching for everything</p>
+      <p begin="00:00:07.019" id="p1" end="00:00:08.397">we need on the internet.</p>
+      <p begin="00:00:08.398" id="p2" end="00:00:10.645">But, wouldn't it be great<br />to be able to discover</p>
+      <p begin="00:00:10.646" id="p3" end="00:00:13.232">information spread across your organization</p>
+      <p begin="00:00:13.233" id="p4" end="00:00:15.578">just as easily as it is on the web?</p>
+      <p begin="00:00:15.579" id="p5" end="00:00:18.076">With SharePoint you can!</p>
+      <p begin="00:00:18.077" id="p6" end="00:00:21.671">Let's test it out and see what it can do.</p>
+      <p begin="00:00:21.672" id="p7" end="00:00:25.542">Let's try Contoso Electronics.</p>
+      <p begin="00:00:27.879" id="p8" end="00:00:30.417">As you can see, we get back<br />many different results,</p>
+      <p begin="00:00:30.418" id="p9" end="00:00:33.710">including presentations,<br />spreadsheets, documents,</p>
+      <p begin="00:00:33.711" id="p10" end="00:00:37.932">conversations, and even images and videos.</p>
+      <p begin="00:00:37.933" id="p11" end="00:00:39.724">Here you can see different views turn up</p>
+      <p begin="00:00:39.725" id="p12" end="00:00:41.017">different results.</p>
+      <p begin="00:00:41.018" id="p13" end="00:00:44.083">Some return everything, or just people,</p>
+      <p begin="00:00:44.084" id="p14" end="00:00:47.200">conversations, or videos.</p>
+      <p begin="00:00:47.201" id="p15" end="00:00:49.562">Refiners can help you dig even deeper,</p>
+      <p begin="00:00:49.563" id="p16" end="00:00:53.709">letting you filter results by type, author,</p>
+      <p begin="00:00:53.710" id="p17" end="00:00:56.323">and other criteria.</p>
+      <p begin="00:00:56.324" id="p18" end="00:00:58.233">This one lets you get results based on</p>
+      <p begin="00:00:58.234" id="p19" end="00:01:01.777">the last date something was modified.</p>
+      <p begin="00:01:01.778" id="p20" end="00:01:04.944">We'll look at People<br />Search in another video.</p>
+      <p begin="00:01:04.945" id="p21" end="00:01:06.979">Right now, I want to find a document</p>
+      <p begin="00:01:06.980" id="p22" end="00:01:09.116">created by a colleague.</p>
+      <p begin="00:01:09.117" id="p23" end="00:01:14.042">So I type in her name, click on it,</p>
+      <p begin="00:01:14.043" id="p24" end="00:01:16.555">and then get a results page<br />with all the documents</p>
+      <p begin="00:01:16.556" id="p25" end="00:01:18.918">she's worked on.</p>
+      <p begin="00:01:18.919" id="p26" end="00:01:21.357">Do you notice how the refiners change?</p>
+      <p begin="00:01:21.358" id="p27" end="00:01:23.367">That's because they're dynamically created</p>
+      <p begin="00:01:23.368" id="p28" end="00:01:25.403">at search time.</p>
+      <p begin="00:01:25.404" id="p29" end="00:01:26.886">Notice that when I hover over one</p>
+      <p begin="00:01:26.887" id="p30" end="00:01:28.796">of the results, we get a little preview</p>
+      <p begin="00:01:28.797" id="p31" end="00:01:31.259">of it with this Hover Panel.</p>
+      <p begin="00:01:31.260" id="p32" end="00:01:34.250">From here, we can edit the document,</p>
+      <p begin="00:01:34.251" id="p33" end="00:01:38.598">follow it for updates,<br />share it with someone,</p>
+      <p begin="00:01:38.599" id="p34" end="00:01:42.142">or open the library where it's stored.</p>
+      <p begin="00:01:42.143" id="p35" end="00:01:45.585">Now take a look at these quick links.</p>
+      <p begin="00:01:47.294" id="p36" end="00:01:49.154">We can click on them to get directly to</p>
+      <p begin="00:01:49.155" id="p37" end="00:01:52.698">specific sections inside of a document.</p>
+    </div>
+  </body>
+</tt>

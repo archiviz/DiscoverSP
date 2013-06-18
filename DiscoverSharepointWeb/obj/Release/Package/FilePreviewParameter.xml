@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="SharePoint101" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^X:\\Current\ Projects\\Moodle\\OfficeApp\\DiscoverSharepoint\\DiscoverSharepointWeb\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^X:\\Current\ Projects\\Moodle\\OfficeApp\\DiscoverSharepoint\\DiscoverSharepointWeb\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="ClientId" description="Value for ClientId here." value="e9f47704-d5b4-4f03-b64b-a6593bb71fb1" tags="applicationSettings">
+    <parameterEntry kind="XmlFile" scope="web.config$" match="/configuration/appSettings/add[@key='ClientId']/@value" />
+  </parameter>
+  <parameter name="ClientSecret" description="Value for ClientSecret here." value="4AEGyIgTLBnB3EJqohVFTvnYKU2VKMZUn5U+XxwO4VI=" tags="applicationSettings">
+    <parameterEntry kind="XmlFile" scope="web.config$" match="/configuration/appSettings/add[@key='ClientSecret']/@value" />
+  </parameter>
+  <parameter name="myConnectionString-Web.config Connection String" description="myConnectionString Connection String used in web.config by the application to access the database." value="Server=tcp:fizh8y60zs.database.windows.net,1433;Database=Sharepoint101;User ID=adopt-sharepoint@fizh8y60zs;Password=SPusecase38655;Trusted_Connection=False;Encrypt=True;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="X:\\Current\ Projects\\Moodle\\OfficeApp\\DiscoverSharepoint\\DiscoverSharepointWeb\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='myConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

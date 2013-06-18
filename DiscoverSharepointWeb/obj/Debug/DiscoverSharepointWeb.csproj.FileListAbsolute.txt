@@ -1,0 +1,15 @@
+X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\bin\DiscoverSharepointWeb.dll
+X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\bin\DiscoverSharepointWeb.pdb
+X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\bin\Microsoft.IdentityModel.dll
+X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\bin\Microsoft.IdentityModel.Extensions.dll
+X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\bin\Microsoft.SharePoint.Client.dll
+X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\bin\Microsoft.SharePoint.Client.Runtime.dll
+X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\bin\en\Microsoft.IdentityModel.resources.dll
+X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\obj\Debug\DiscoverSharepointWeb.dll
+X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\obj\Debug\DiscoverSharepointWeb.pdb
+X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\bin\Newtonsoft.Json.dll
+X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\bin\Newtonsoft.Json.xml
+X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\bin\DiscoverSharepointWeb.dll.CodeAnalysisLog.xml
+X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\bin\Videos\1cap.txt
+X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\bin\DiscoverSharepointWeb.dll.lastcodeanalysissucceeded
+X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\obj\Debug\DiscoverSharepointWeb.csprojResolveAssemblyReference.cache

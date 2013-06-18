@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/2006/10/ttaf1" xmlns:ttp="http://www.w3.org/2006/10/ttaf1#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/2006/10/ttaf1#style" xml:lang="en" xmlns:ttm="http://www.w3.org/2006/10/ttaf1#metadata">
+  <head>
+    <metadata>
+      <ttm:title>17cap</ttm:title>
+    </metadata>
+    <styling>
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+  </head>
+  <body tts:textAlign="center" style="s0">
+    <div>
+      <p begin="00:00:05.820" id="p0" end="00:00:07.709">Now it's time to create a dashboard</p>
+      <p begin="00:00:07.710" id="p1" end="00:00:10.952">to visualize and share our insights.</p>
+      <p begin="00:00:10.953" id="p2" end="00:00:13.378">For this, let's create a Power View report</p>
+      <p begin="00:00:13.379" id="p3" end="00:00:16.900">from scratch so you can see how easy it is.</p>
+      <p begin="00:00:17.728" id="p4" end="00:00:19.991">First, let's add a title.</p>
+      <p begin="00:00:22.860" id="p5" end="00:00:24.598">Then, let's add the first chart in the</p>
+      <p begin="00:00:24.599" id="p6" end="00:00:27.257">upper left corner as a map to look at</p>
+      <p begin="00:00:27.258" id="p7" end="00:00:30.698">the satisfaction scores by regions.</p>
+      <p begin="00:00:35.562" id="p8" end="00:00:38.489">Now, we add a simple 2-dimension bar chart</p>
+      <p begin="00:00:38.490" id="p9" end="00:00:40.005">that shows the gross margins by</p>
+      <p begin="00:00:40.006" id="p10" end="00:00:42.583">categories of products.</p>
+      <p begin="00:00:51.552" id="p11" end="00:00:53.453">Then, let's create a clustered chart</p>
+      <p begin="00:00:53.454" id="p12" end="00:00:55.961">that allows an additional<br />dimension to analyze</p>
+      <p begin="00:00:55.962" id="p13" end="00:00:58.247">the total sales amount based on brands</p>
+      <p begin="00:00:58.248" id="p14" end="00:01:01.324">and categories of the products.</p>
+      <p begin="00:01:02.875" id="p15" end="00:01:05.395">Finally, we add a scatter chart to display</p>
+      <p begin="00:01:05.396" id="p16" end="00:01:07.377">multiple dimensions, as well as their</p>
+      <p begin="00:01:07.378" id="p17" end="00:01:10.317">correlation based on<br />sales amount, quantity,</p>
+      <p begin="00:01:10.318" id="p18" end="00:01:12.719">and margin over time.</p>
+      <p begin="00:01:31.158" id="p19" end="00:01:33.592">Now I can share this report on SharePoint</p>
+      <p begin="00:01:33.593" id="p20" end="00:01:35.428">so my colleagues can offer feedback</p>
+      <p begin="00:01:35.429" id="p21" end="00:01:37.280">and visualize the data themselves,</p>
+      <p begin="00:01:37.281" id="p22" end="00:01:41.073">and our executives can<br />monitor our business.</p>
+    </div>
+  </body>
+</tt>

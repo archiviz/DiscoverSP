@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/2006/10/ttaf1" xmlns:ttp="http://www.w3.org/2006/10/ttaf1#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/2006/10/ttaf1#style" xml:lang="en" xmlns:ttm="http://www.w3.org/2006/10/ttaf1#metadata">
+  <head>
+    <metadata>
+      <ttm:title>2cap</ttm:title>
+    </metadata>
+    <styling>
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+  </head>
+  <body tts:textAlign="center" style="s0">
+    <div>
+      <p begin="00:00:05.493" id="p0" end="00:00:08.015">Now let's see how multiple people can view</p>
+      <p begin="00:00:08.016" id="p1" end="00:00:10.899">and edit the same document<br />at the same time.</p>
+      <p begin="00:00:10.900" id="p2" end="00:00:13.784">As Garth, I already sent an invite to Allie</p>
+      <p begin="00:00:13.785" id="p3" end="00:00:15.512">to review some content.</p>
+      <p begin="00:00:15.513" id="p4" end="00:00:18.172">Right from her inbox,<br />she can view the invite</p>
+      <p begin="00:00:18.173" id="p5" end="00:00:20.159">and click the link to open the document</p>
+      <p begin="00:00:20.160" id="p6" end="00:00:22.750">in the Office Web App.</p>
+      <p begin="00:00:22.751" id="p7" end="00:00:24.605">Allie can start editing the doc</p>
+      <p begin="00:00:24.606" id="p8" end="00:00:27.092">by clicking the Edit Document menu</p>
+      <p begin="00:00:27.093" id="p9" end="00:00:33.104">and choosing between Edit<br />in Word Web App or Word.</p>
+      <p begin="00:00:33.105" id="p10" end="00:00:35.643">Because I'm already working<br />on the same document,</p>
+      <p begin="00:00:35.644" id="p11" end="00:00:39.833">we are both notified that<br />we are co-authoring it.</p>
+      <p begin="00:00:44.333" id="p12" end="00:00:46.130">When Allie makes changes in the document,</p>
+      <p begin="00:00:46.131" id="p13" end="00:00:48.583">the paragraph she's editing<br />is being locked down</p>
+      <p begin="00:00:48.584" id="p14" end="00:00:52.833">to avoid conflicts until<br />she submits her changes.</p>
+      <p begin="00:00:55.569" id="p15" end="00:00:59.394">At that moment, I am notified of updates.</p>
+      <p begin="00:01:06.615" id="p16" end="00:01:09.207">Using Lync, Allie and I can chat instantly,</p>
+      <p begin="00:01:09.208" id="p17" end="00:01:10.733">and thanks to version control,</p>
+      <p begin="00:01:10.734" id="p18" end="00:01:12.876">we can work together in real time</p>
+      <p begin="00:01:12.877" id="p19" end="00:01:14.931">and keep track of changes.</p>
+      <p begin="00:01:14.932" id="p20" end="00:01:17.091">If, for any reason, you<br />want to prevent others</p>
+      <p begin="00:01:17.092" id="p21" end="00:01:19.465">from editing a document<br />while you're working on it,</p>
+      <p begin="00:01:19.466" id="p22" end="00:01:20.813">perform a check-out.</p>
+      <p begin="00:01:20.814" id="p23" end="00:01:24.976">Don't forget to do a check-in<br />once you're finished.</p>
+    </div>
+  </body>
+</tt>

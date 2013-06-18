@@ -1,0 +1,58 @@
+WEBVTT
+
+0:00:05.491 --> 0:00:07.934
+As projects spread across
+your organization,
+
+0:00:07.935 --> 0:00:10.989
+it can be challenging to
+stay on top of everything.
+
+0:00:10.990 --> 0:00:12.240
+So you don't miss a thing,
+
+0:00:12.241 --> 0:00:14.247
+you now can get an aggregated view
+
+0:00:14.248 --> 0:00:16.836
+of all your to-do items
+coming from SharePoint,
+
+0:00:16.837 --> 0:00:19.251
+Outlook, and Project.
+
+0:00:19.252 --> 0:00:20.826
+That means one single view
+
+0:00:20.827 --> 0:00:22.340
+of your personal tasks,
+
+0:00:22.341 --> 0:00:24.755
+as well as tasks coming
+from various projects
+
+0:00:24.756 --> 0:00:27.382
+you're working on.
+
+0:00:27.383 --> 0:00:30.911
+You can even sync those
+tasks directly in Outlook.
+
+0:00:30.912 --> 0:00:33.081
+Simply click Tasks in the menu bar,
+
+0:00:33.082 --> 0:00:36.600
+and then click the Sync to Outlook button.
+
+0:00:39.170 --> 0:00:40.773
+That's all there is to it.
+
+0:00:40.774 --> 0:00:44.146
+To confirm, just go to Outlook,
+
+0:00:44.147 --> 0:00:47.474
+click Tasks, and see
+that all of your content
+
+0:00:47.475 --> 0:00:50.100
+is now in sync.

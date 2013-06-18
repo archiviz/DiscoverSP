@@ -1,0 +1,184 @@
+WEBVTT
+
+0:00:02.591 --> 0:00:04.044
+Now let me show you how to quickly
+
+0:00:04.045 --> 0:00:06.359
+set up a site and keep
+everything you need -
+
+0:00:06.360 --> 0:00:11.075
+notes, mailboxes, documents,
+schedules, and newsfeeds -
+
+0:00:11.076 --> 0:00:13.633
+all shared in one place,
+helping to organize
+
+0:00:13.634 --> 0:00:15.959
+and keep your team in sync.
+
+0:00:15.960 --> 0:00:17.986
+The first step is to create a new site
+
+0:00:17.987 --> 0:00:22.177
+by clicking here , and giving it a name.
+
+0:00:22.178 --> 0:00:24.991
+Then click Create, and, just like that,
+
+0:00:24.992 --> 0:00:27.037
+your site is up and running.
+
+0:00:27.038 --> 0:00:30.299
+Now let's take a look at
+the Getting Started tiles.
+
+0:00:30.300 --> 0:00:31.889
+With these, you can change the look
+
+0:00:31.890 --> 0:00:36.006
+and feel of your site and add
+all kinds of functionality.
+
+0:00:36.007 --> 0:00:38.525
+By clicking on What Is Your Style,
+
+0:00:38.526 --> 0:00:42.561
+you can choose a theme
+from a list of templates.
+
+0:00:42.562 --> 0:00:45.657
+I like this one, so I select it
+
+0:00:47.569 --> 0:00:49.340
+and then drag and drop an image
+
+0:00:49.341 --> 0:00:52.200
+for the site background.
+
+0:00:55.224 --> 0:00:58.079
+From the Your Site Your Brand tile,
+
+0:00:58.080 --> 0:01:00.772
+you can also add a logo
+and update the title
+
+0:01:00.773 --> 0:01:05.311
+and description of the site, as required.
+
+0:00:35.312 --> 0:01:10.916
+Now let's make it a true
+collaborative space for a team.
+
+0:01:10.917 --> 0:01:12.698
+You can add and assign tasks
+
+0:01:12.699 --> 0:01:17.652
+and use a calendar to
+organize upcoming meetings.
+
+0:01:17.653 --> 0:01:19.223
+We'll show you more about tasks
+
+0:01:19.224 --> 0:01:20.850
+and calendars in another video,
+
+0:01:20.851 --> 0:01:24.664
+where we'll drill down a bit deeper.
+
+0:01:24.665 --> 0:01:27.748
+By clicking the Share Your Site tile,
+
+0:01:27.749 --> 0:01:31.333
+you can invite team members to join.
+
+0:01:34.319 --> 0:01:36.947
+With Office 365, you can also invite
+
+0:01:36.948 --> 0:01:39.567
+people from outside your organization,
+
+0:01:39.568 --> 0:01:45.764
+as long as your IT admin has
+activated external sharing.
+
+0:01:45.765 --> 0:01:47.192
+Don't forget to follow the site
+
+0:01:47.193 --> 0:01:49.770
+to add it to your favorite lists!
+
+0:01:47.771 --> 0:01:51.804
+You can also click Sync to synchronize
+
+0:01:51.805 --> 0:01:53.854
+your files locally so that you always
+
+0:01:53.855 --> 0:01:58.344
+have access to them, even when offline.
+
+0:01:58.345 --> 0:02:01.863
+By clicking the Keep Email In Context tile,
+
+0:02:01.864 --> 0:02:03.796
+you can even set up a site mailbox
+
+0:02:03.797 --> 0:02:07.447
+that everyone on the team can access.
+
+0:02:07.448 --> 0:02:10.127
+And by default, each site
+comes with a newsfeed
+
+0:02:10.128 --> 0:02:13.400
+to keep everyone on the same page,
+
+0:02:15.884 --> 0:02:18.155
+as well as a document
+library to make it easy
+
+0:02:18.156 --> 0:02:23.133
+easy to store and organize
+your content in one place.
+
+0:02:28.545 --> 0:02:30.933
+As you can see, it only takes a few clicks
+
+0:02:30.934 --> 0:02:32.115
+to set up a site.
+
+0:02:32.116 --> 0:02:34.186
+Then you can easily customize your site
+
+0:02:34.187 --> 0:02:36.562
+to fit your needs even better.
+
+0:02:36.563 --> 0:02:38.312
+Just browse through the available apps
+
+0:02:38.313 --> 0:02:40.166
+and add more,
+
+0:02:43.055 --> 0:02:45.633
+like a Picture Library.
+
+0:02:50.756 --> 0:02:54.524
+You can even add custom
+apps from your organization
+
+0:02:54.525 --> 0:02:58.066
+ or apps from the Office Store.
+
+0:03:02.067 --> 0:03:03.683
+Once you're finished, you can hide
+
+0:03:03.684 --> 0:03:07.423
+the Getting Started tiles from your site.
+
+0:03:07.424 --> 0:03:09.409
+At any time, you can reactivate them
+
+0:03:09.410 --> 0:03:14.159
+by clicking here and going
+to Getting Started.

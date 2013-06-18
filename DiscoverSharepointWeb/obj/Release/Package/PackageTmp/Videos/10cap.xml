@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/2006/10/ttaf1" xmlns:ttp="http://www.w3.org/2006/10/ttaf1#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/2006/10/ttaf1#style" xml:lang="en" xmlns:ttm="http://www.w3.org/2006/10/ttaf1#metadata">
+  <head>
+    <metadata>
+      <ttm:title>10cap</ttm:title>
+    </metadata>
+    <styling>
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+  </head>
+  <body tts:textAlign="center" style="s0">
+    <div>
+      <p begin="00:00:05.382" id="p0" end="00:00:07.752">Newsfeeds help you share information,</p>
+      <p begin="00:00:07.753" id="p1" end="00:00:09.616">have productive conversations<br />with colleagues</p>
+      <p begin="00:00:09.617" id="p2" end="00:00:12.402">to get things done together,<br />and stay connected</p>
+      <p begin="00:00:12.403" id="p3" end="00:00:14.573">with individuals and<br />groups who share the same</p>
+      <p begin="00:00:14.574" id="p4" end="00:00:17.066">interests as you.</p>
+      <p begin="00:00:18.212" id="p5" end="00:00:19.898">“Following” shows you updates</p>
+      <p begin="00:00:19.899" id="p6" end="00:00:21.920">related to what you're currently following:</p>
+      <p begin="00:00:21.921" id="p7" end="00:00:25.351">people, documents, sites, and tags.</p>
+      <p begin="00:00:25.352" id="p8" end="00:00:27.790">“Everyone” shows posts from nearly everyone</p>
+      <p begin="00:00:27.791" id="p9" end="00:00:29.406">in your organization, whether you're</p>
+      <p begin="00:00:29.407" id="p10" end="00:00:31.925">following them or not.</p>
+      <p begin="00:00:31.926" id="p11" end="00:00:34.017">“Mentions” shows posts where your name</p>
+      <p begin="00:00:34.018" id="p12" end="00:00:36.248">is mentioned so you don't miss a thing.</p>
+      <p begin="00:00:36.249" id="p13" end="00:00:39.341">As Alex, I need some sales<br />expertise for a meeting,</p>
+      <p begin="00:00:39.342" id="p14" end="00:00:41.533">so I start a conversation with the hash tag</p>
+      <p begin="00:00:41.534" id="p15" end="00:00:42.802">#Sales.</p>
+      <p begin="00:00:42.803" id="p16" end="00:00:44.666">Hash tags let you organize content</p>
+      <p begin="00:00:44.667" id="p17" end="00:00:45.842">the way you want.</p>
+      <p begin="00:00:45.843" id="p18" end="00:00:47.399">That means you can quickly view all the</p>
+      <p begin="00:00:47.400" id="p19" end="00:00:49.540">conversations that reference that tag.</p>
+      <p begin="00:00:49.541" id="p20" end="00:00:51.464">More importantly, you can use hash tags</p>
+      <p begin="00:00:51.465" id="p21" end="00:00:53.368">to get in touch with<br />people who are following</p>
+      <p begin="00:00:53.369" id="p22" end="00:00:54.795">the topic you've tagged,</p>
+      <p begin="00:00:54.796" id="p23" end="00:00:56.469">people who are most likely to have</p>
+      <p begin="00:00:56.470" id="p24" end="00:00:58.900">the knowledge you need.</p>
+      <p begin="00:01:01.219" id="p25" end="00:01:03.311">Now Janet sees my post and replies</p>
+      <p begin="00:01:03.312" id="p26" end="00:01:06.100">back to me with @mention</p>
+      <p begin="00:01:08.209" id="p27" end="00:01:11.033">so that I get a notification.</p>
+      <p begin="00:01:12.502" id="p28" end="00:01:15.477">I see Janet's reply and<br />I start following her.</p>
+      <p begin="00:01:15.478" id="p29" end="00:01:17.661">I also add a reminder to follow up.</p>
+      <p begin="00:01:17.662" id="p30" end="00:01:19.912">This automatically creates a task in my</p>
+      <p begin="00:01:19.913" id="p31" end="00:01:22.678">personal to-do-list.</p>
+      <p begin="00:01:22.679" id="p32" end="00:01:25.504">With Lync, I can initiate a chat, a call,</p>
+      <p begin="00:01:25.505" id="p33" end="00:01:27.714">or a video conference with Janet directly</p>
+      <p begin="00:01:27.715" id="p34" end="00:01:29.995">from my newsfeed whenever I want to.</p>
+      <p begin="00:01:29.996" id="p35" end="00:01:32.087">As you can see, the newsfeed also</p>
+      <p begin="00:01:32.088" id="p36" end="00:01:34.110">gives you quick access to the people,</p>
+      <p begin="00:01:34.111" id="p37" end="00:01:36.103">documents, sites, and tags</p>
+      <p begin="00:01:36.104" id="p38" end="00:01:37.610">that you're following.</p>
+    </div>
+  </body>
+</tt>

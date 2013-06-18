@@ -1,0 +1,83 @@
+WEBVTT
+
+0:00:05.493 --> 0:00:08.015
+Now let's see how multiple people can view
+
+0:00:08.016 --> 0:00:10.899
+and edit the same document
+at the same time.
+
+0:00:10.900 --> 0:00:13.784
+As Garth, I already sent an invite to Allie
+
+0:00:13.785 --> 0:00:15.512
+to review some content.
+
+0:00:15.513 --> 0:00:18.172
+Right from her inbox,
+she can view the invite
+
+0:00:18.173 --> 0:00:20.159
+and click the link to open the document
+
+0:00:20.160 --> 0:00:22.750
+in the Office Web App.
+
+0:00:22.751 --> 0:00:24.605
+Allie can start editing the doc
+
+0:00:24.606 --> 0:00:27.092
+by clicking the Edit Document menu
+
+0:00:27.093 --> 0:00:33.104
+and choosing between Edit
+in Word Web App or Word.
+
+0:00:33.105 --> 0:00:35.643
+Because I'm already working
+on the same document,
+
+0:00:35.644 --> 0:00:39.833
+we are both notified that
+we are co-authoring it.
+
+0:00:44.333 --> 0:00:46.130
+When Allie makes changes in the document,
+
+0:00:46.131 --> 0:00:48.583
+the paragraph she's editing
+is being locked down
+
+0:00:48.584 --> 0:00:52.833
+to avoid conflicts until
+she submits her changes.
+
+0:00:55.569 --> 0:00:59.394
+At that moment, I am notified of updates.
+
+0:01:06.615 --> 0:01:09.207
+Using Lync, Allie and I can chat instantly,
+
+0:01:09.208 --> 0:01:10.733
+and thanks to version control,
+
+0:01:10.734 --> 0:01:12.876
+we can work together in real time
+
+0:01:12.877 --> 0:01:14.931
+and keep track of changes.
+
+0:01:14.932 --> 0:01:17.091
+If, for any reason, you
+want to prevent others
+
+0:01:17.092 --> 0:01:19.465
+from editing a document
+while you're working on it,
+
+0:01:19.466 --> 0:01:20.813
+perform a check-out.
+
+0:01:20.814 --> 0:01:24.976
+Don't forget to do a check-in
+once you're finished.

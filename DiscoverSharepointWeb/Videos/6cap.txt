@@ -1,0 +1,149 @@
+WEBVTT
+
+0:00:05.392 --> 0:00:07.532
+Now let me walk you
+through the site mailbox
+
+0:00:07.533 --> 0:00:09.275
+and calendars.
+
+0:00:09.276 --> 0:00:12.389
+Let's start with the site mailbox.
+
+0:00:12.390 --> 0:00:15.911
+Email plays a crucial role
+in everyday communication.
+
+0:00:15.912 --> 0:00:18.143
+But while it lets us share
+important information,
+
+0:00:18.144 --> 0:00:20.423
+it sometimes excludes other team members
+
+0:00:20.424 --> 0:00:22.352
+from the conversation.
+
+0:00:22.353 --> 0:00:24.525
+The site mailbox can help all teammates
+
+0:00:24.526 --> 0:00:26.351
+instantly get on the same page
+
+0:00:26.352 --> 0:00:29.167
+by simply using a shared inbox.
+
+0:00:29.168 --> 0:00:32.397
+Here, I can access the
+site mailbox from our site
+
+0:00:32.398 --> 0:00:35.813
+and see our emails in the Outlook Web App.
+
+0:00:35.814 --> 0:00:39.208
+Notice that when I switch to Outlook,
+
+0:00:39.209 --> 0:00:42.914
+the site mailbox is
+synchronized with Outlook,
+
+0:00:42.915 --> 0:00:46.367
+along with my personal inbox.
+
+0:00:46.368 --> 0:00:48.806
+Now what's really useful here is that I can
+
+0:00:48.807 --> 0:00:51.527
+drag an email from my personal inbox
+
+0:00:51.528 --> 0:00:53.532
+and drop it in the site mailbox,
+
+0:00:53.533 --> 0:00:55.372
+giving everyone on my team access
+
+0:00:55.373 --> 0:00:58.663
+to this message at the same time.
+
+0:00:58.664 --> 0:01:01.325
+It works the same way with attachments:
+
+0:01:01.326 --> 0:01:03.187
+drag an attachment from an email
+
+0:01:03.188 --> 0:01:05.874
+into the documents folder,
+and it automatically
+
+0:01:05.875 --> 0:01:10.214
+syncs with the site's document library.
+
+0:01:10.215 --> 0:01:11.670
+Let's head back to the team site
+
+0:01:11.671 --> 0:01:13.223
+and view the updates I've made
+
+0:01:13.224 --> 0:01:16.549
+in the site mailbox and document library.
+
+0:01:16.550 --> 0:01:19.992
+So here we have the new email
+
+0:01:19.993 --> 0:01:22.705
+and the attachment.
+
+0:01:22.706 --> 0:01:25.376
+Let's move on to calendars.
+
+0:01:25.377 --> 0:01:27.982
+You can use calendars to
+keep everyone up to date
+
+0:01:27.983 --> 0:01:30.325
+on upcoming meetings and travel.
+
+0:01:30.326 --> 0:01:32.117
+And, just like with emails,
+
+0:01:32.118 --> 0:01:35.993
+calendars can be synchronized
+directly inside Outlook.
+
+0:01:35.994 --> 0:01:39.026
+When I click Connect to Outlook,
+
+0:01:39.027 --> 0:01:41.002
+the team calendar syncs with Outlook
+
+0:01:41.003 --> 0:01:43.151
+and appears under Other Calendars
+
+0:01:43.152 --> 0:01:45.263
+in my calendar folder.
+
+0:01:45.264 --> 0:01:47.120
+Note how my personal calendar
+
+0:01:47.121 --> 0:01:49.549
+and the team site calendar can be seen
+
+0:01:49.550 --> 0:01:52.647
+together in side-by-side view.
+
+0:01:52.648 --> 0:01:55.717
+This view is especially helpful
+for organizing meetings
+
+0:01:55.718 --> 0:01:59.600
+while keeping an eye out
+for scheduling conflicts.
+
+0:02:00.649 --> 0:02:04.642
+Now let's go back to the team site calendar
+
+0:02:04.643 --> 0:02:06.317
+and see that my changes in Outlook
+
+0:02:06.318 --> 0:02:08.699
+are automatically synchronized.

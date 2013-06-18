@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/2006/10/ttaf1" xmlns:ttp="http://www.w3.org/2006/10/ttaf1#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/2006/10/ttaf1#style" xml:lang="en" xmlns:ttm="http://www.w3.org/2006/10/ttaf1#metadata">
+  <head>
+    <metadata>
+      <ttm:title>capmain</ttm:title>
+    </metadata>
+    <styling>
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+  </head>
+  <body tts:textAlign="center" style="s0">
+    <div>
+      <p begin="00:00:09.301" id="p0" end="00:00:11.398">History has taught us</p>
+      <p begin="00:00:11.480" id="p1" end="00:00:13.232">that the whole<br />is greater</p>
+      <p begin="00:00:13.253" id="p2" end="00:00:15.022">than the sum of its parts.</p>
+      <p begin="00:00:16.451" id="p3" end="00:00:17.816">That working together,</p>
+      <p begin="00:00:17.840" id="p4" end="00:00:19.849">we are able to accomplish more…</p>
+      <p begin="00:00:19.920" id="p5" end="00:00:22.709">than we could ever<br />accomplish on our own.</p>
+      <p begin="00:00:22.989" id="p6" end="00:00:25.077">That when great minds<br />come together…</p>
+      <p begin="00:00:25.642" id="p7" end="00:00:27.854">anything is possible.</p>
+      <p begin="00:00:43.018" id="p8" end="00:00:46.487">So we are reinventing the<br />way people work together.</p>
+      <p begin="00:00:48.777" id="p9" end="00:00:51.566">We are making it easier than ever before</p>
+      <p begin="00:00:52.765" id="p10" end="00:00:53.785">to share ideas.</p>
+      <p begin="00:00:58.594" id="p11" end="00:01:00.023">Discover connections.</p>
+      <p begin="00:01:05.699" id="p12" end="00:01:06.651">Ask questions.</p>
+      <p begin="00:01:10.449" id="p13" end="00:01:11.333">Find answers.</p>
+      <p begin="00:01:16.919" id="p14" end="00:01:17.803">Stay in sync.</p>
+      <p begin="00:01:21.524" id="p15" end="00:01:23.089">Organize information.</p>
+      <p begin="00:01:26.541" id="p16" end="00:01:27.834">And build the team...</p>
+      <p begin="00:01:28.480" id="p17" end="00:01:29.773">that takes an idea…</p>
+      <p begin="00:01:31.162" id="p18" end="00:01:32.114">and makes it</p>
+      <p begin="00:01:34.209" id="p19" end="00:01:34.889">a reality.</p>
+      <p begin="00:01:36.511" id="p20" end="00:01:37.259">SharePoint,</p>
+      <p begin="00:01:37.994" id="p21" end="00:01:40.726">The New Way to Work Together.</p>
+    </div>
+  </body>
+</tt>

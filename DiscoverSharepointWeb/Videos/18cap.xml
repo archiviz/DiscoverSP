@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/2006/10/ttaf1" xmlns:ttp="http://www.w3.org/2006/10/ttaf1#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/2006/10/ttaf1#style" xml:lang="en" xmlns:ttm="http://www.w3.org/2006/10/ttaf1#metadata">
+  <head>
+    <metadata>
+      <ttm:title>18cap</ttm:title>
+    </metadata>
+    <styling>
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+  </head>
+  <body tts:textAlign="center" style="s0">
+    <div>
+      <p begin="00:00:01.688" id="p0" end="00:00:03.784">Now let's take a look at Power View.</p>
+      <p begin="00:00:04.629" id="p1" end="00:00:06.708">You can use Power View to gain valuable</p>
+      <p begin="00:00:06.709" id="p2" end="00:00:10.176">insights into your data and<br />make better decisions.</p>
+      <p begin="00:00:10.177" id="p3" end="00:00:12.547">I need to figure out how<br />effective my marketing</p>
+      <p begin="00:00:12.548" id="p4" end="00:00:16.115">campaign was across a 12-month period.</p>
+      <p begin="00:00:16.116" id="p5" end="00:00:18.626">I open the campaign spreadsheet</p>
+      <p begin="00:00:21.207" id="p6" end="00:00:24.542">and click one of the blue<br />bars at the top right.</p>
+      <p begin="00:00:25.117" id="p7" end="00:00:27.123">This filters my dashboard to display</p>
+      <p begin="00:00:27.124" id="p8" end="00:00:30.411">the sales revenue, sales<br />quantity, and margins</p>
+      <p begin="00:00:30.412" id="p9" end="00:00:33.124">for each brand in my campaign.</p>
+      <p begin="00:00:33.125" id="p10" end="00:00:35.032">To see how revenue and sales changed</p>
+      <p begin="00:00:35.033" id="p11" end="00:00:38.142">over the months, I click Play.</p>
+      <p begin="00:00:38.143" id="p12" end="00:00:40.256">This gives us a full view of how the sales</p>
+      <p begin="00:00:40.257" id="p13" end="00:00:43.132">numbers changed over time.</p>
+      <p begin="00:00:43.133" id="p14" end="00:00:45.099">We can even take a closer look at the data</p>
+      <p begin="00:00:45.100" id="p15" end="00:00:46.911">by zooming in on the scatter plot</p>
+      <p begin="00:00:46.912" id="p16" end="00:00:49.888">to see all the details.</p>
+    </div>
+  </body>
+</tt>

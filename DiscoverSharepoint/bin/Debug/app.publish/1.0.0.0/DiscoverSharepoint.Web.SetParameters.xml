@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="SharePoint101" />
+  <setParameter name="ClientId" value="e9f47704-d5b4-4f03-b64b-a6593bb71fb1" />
+  <setParameter name="ClientSecret" value="4AEGyIgTLBnB3EJqohVFTvnYKU2VKMZUn5U+XxwO4VI=" />
+  <setParameter name="myConnectionString-Web.config Connection String" value="Server=tcp:fizh8y60zs.database.windows.net,1433;Database=Sharepoint101;User ID=adopt-sharepoint@fizh8y60zs;Password=SPusecase38655;Trusted_Connection=False;Encrypt=True;Connection Timeout=30;" />
+</parameters>

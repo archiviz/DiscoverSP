@@ -1,0 +1,73 @@
+WEBVTT
+
+0:00:02.939 --> 0:00:04.672
+Did you know that when you create a site
+
+0:00:04.673 --> 0:00:06.395
+for your team, a shared notebook
+
+0:00:06.396 --> 0:00:07.970
+is automatically added?
+
+0:00:07.971 --> 0:00:10.376
+This is a fantastic collaboration tool
+
+0:00:10.377 --> 0:00:14.084
+to capture, compile, and share information.
+
+0:00:14.085 --> 0:00:16.066
+Let’s open one.
+
+0:00:17.637 --> 0:00:18.838
+All members of the team site
+
+0:00:18.839 --> 0:00:20.710
+can use the notebook.
+
+0:00:20.711 --> 0:00:23.480
+People can take notes,
+insert text and pictures,
+
+0:00:23.481 --> 0:00:25.363
+and even record audio and video -
+
+0:00:25.364 --> 0:00:28.466
+all together at the same time.
+
+0:00:31.884 --> 0:00:34.634
+In addition, teammates
+using Office can open
+
+0:00:34.635 --> 0:00:36.982
+and sync the notebook
+on their local desktop
+
+0:00:36.983 --> 0:00:40.083
+by clicking Open in OneNote.
+
+0:00:42.604 --> 0:00:44.662
+Plus, they can send back reports or notes
+
+0:00:44.663 --> 0:00:46.433
+through email
+
+0:00:48.659 --> 0:00:50.533
+and insert meeting information from their
+
+0:00:50.534 --> 0:00:54.933
+Outlook calendar - all in one single click.
+
+0:00:57.575 --> 0:01:00.256
+Finally, team members can access and sync
+
+0:01:00.257 --> 0:01:03.067
+the notebook on multiple devices.
+
+0:01:03.068 --> 0:01:04.864
+This way, your shared notes are available
+
+0:01:04.865 --> 0:01:07.342
+from virtually anywhere and stay in sync
+
+0:01:07.343 --> 0:01:10.300
+across devices.

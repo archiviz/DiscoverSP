@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/2006/10/ttaf1" xmlns:ttp="http://www.w3.org/2006/10/ttaf1#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/2006/10/ttaf1#style" xml:lang="en" xmlns:ttm="http://www.w3.org/2006/10/ttaf1#metadata">
+  <head>
+    <metadata>
+      <ttm:title>1cap</ttm:title>
+    </metadata>
+    <styling>
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+  </head>
+  <body tts:textAlign="center" style="s0">
+    <div>
+      <p begin="00:00:05.480" id="p0" end="00:00:07.523">First, let's look at<br />how you can easily</p>
+      <p begin="00:00:07.524" id="p1" end="00:00:09.912">store, sync, and share your content</p>
+      <p begin="00:00:09.913" id="p2" end="00:00:13.560">in just a few clicks<br />using SkyDrive Pro.</p>
+      <p begin="00:00:13.561" id="p3" end="00:00:16.630">To upload a document,<br />drag it from your</p>
+      <p begin="00:00:16.631" id="p4" end="00:00:19.700">desktop and drop it in<br />the document library.</p>
+      <p begin="00:00:25.150" id="p5" end="00:00:28.279">The green icon shows you<br />that it's new content.</p>
+      <p begin="00:00:28.280" id="p6" end="00:00:30.243">By default, all content is private,</p>
+      <p begin="00:00:30.244" id="p7" end="00:00:32.027">so you don't have to worry.</p>
+      <p begin="00:00:32.028" id="p8" end="00:00:34.153">Activate the Hover Panel<br />to quickly perform</p>
+      <p begin="00:00:34.154" id="p9" end="00:00:38.379">frequent tasks, like get a preview,</p>
+      <p begin="00:00:38.380" id="p10" end="00:00:44.016">download, follow, see who has access,</p>
+      <p begin="00:00:44.017" id="p11" end="00:00:48.497">share, and check-in/check-out.</p>
+      <p begin="00:00:48.498" id="p12" end="00:00:51.254">Alternatively, you can<br />look at the Share icon.</p>
+      <p begin="00:00:51.255" id="p13" end="00:00:53.273">The locker means the file is private,</p>
+      <p begin="00:00:53.274" id="p14" end="00:00:56.313">while the People icon means<br />that it's being shared.</p>
+      <p begin="00:00:56.314" id="p15" end="00:00:58.208">Now, let's say I'm Garth and I need</p>
+      <p begin="00:00:58.209" id="p16" end="00:01:00.141">to share this document with Allie.</p>
+      <p begin="00:01:00.142" id="p17" end="00:01:02.130">We can do it from the<br />Hover Panel, from the</p>
+      <p begin="00:01:02.131" id="p18" end="00:01:05.838">Office Backstage, or just<br />by clicking the Share icon.</p>
+      <p begin="00:01:05.839" id="p19" end="00:01:13.435">I click Invite, select permissions,<br />and type Allie's name.</p>
+      <p begin="00:01:13.436" id="p20" end="00:01:15.578">You can also invite<br />people from outside</p>
+      <p begin="00:01:15.579" id="p21" end="00:01:17.750">your organization using, for example,</p>
+      <p begin="00:01:17.751" id="p22" end="00:01:20.036">their Microsoft Account,<br />or by sending them</p>
+      <p begin="00:01:20.037" id="p23" end="00:01:22.289">a Guest Link to view and edit the file</p>
+      <p begin="00:01:22.290" id="p24" end="00:01:24.731">using the Office Web App.</p>
+      <p begin="00:01:24.732" id="p25" end="00:01:27.063">That's it. Allie then gets an email</p>
+      <p begin="00:01:27.064" id="p26" end="00:01:30.143">letting her know that I<br />shared the document with her.</p>
+      <p begin="00:01:34.169" id="p27" end="00:01:36.710">Alternatively, you can<br />just drag and drop a file</p>
+      <p begin="00:01:36.711" id="p28" end="00:01:39.162">into the Shared with<br />everyone folder to share</p>
+      <p begin="00:01:39.163" id="p29" end="00:01:42.366">your documents across<br />your organization.</p>
+      <p begin="00:01:45.339" id="p30" end="00:01:48.075">As a best practice for when<br />you store and share docs,</p>
+      <p begin="00:01:48.076" id="p31" end="00:01:50.009">we recommend that you<br />activate versioning,</p>
+      <p begin="00:01:50.010" id="p32" end="00:01:53.334">so you can always keep<br />track of changes.</p>
+      <p begin="00:02:01.177" id="p33" end="00:02:03.221">You can also sync<br />documents uploaded to</p>
+      <p begin="00:02:03.222" id="p34" end="00:02:05.655">SkyDrive Pro on your local computer.</p>
+      <p begin="00:02:05.656" id="p35" end="00:02:08.495">This way, you always have<br />access to your docs,</p>
+      <p begin="00:02:08.496" id="p36" end="00:02:09.896">even when offline.</p>
+      <p begin="00:02:09.897" id="p37" end="00:02:12.727">You can keep working on<br />content while on-the-go,</p>
+      <p begin="00:02:12.728" id="p38" end="00:02:14.457">with changes automatically uploaded</p>
+      <p begin="00:02:14.458" id="p39" end="00:02:16.866">when you're back online.</p>
+      <p begin="00:02:22.580" id="p40" end="00:02:24.394">You can also stay connected via apps</p>
+      <p begin="00:02:24.395" id="p41" end="00:02:26.399">and browser support across multiple</p>
+      <p begin="00:02:26.400" id="p42" end="00:02:28.842">platforms and devices.</p>
+      <p begin="00:02:28.843" id="p43" end="00:02:30.551">Just open your browser and simply</p>
+      <p begin="00:02:30.552" id="p44" end="00:02:33.233">use the Office Web App.</p>
+      <p begin="00:02:37.951" id="p45" end="00:02:40.123">Keep your content in<br />sync across devices</p>
+      <p begin="00:02:40.124" id="p46" end="00:02:43.059">with out-of-the-box integration<br />on Windows Phone 8,</p>
+      <p begin="00:02:43.060" id="p47" end="00:02:46.216">and SkyDrive Pro apps coming<br />soon on more devices,</p>
+      <p begin="00:02:46.217" id="p48" end="00:02:50.000">like Surface RT and iPad.</p>
+    </div>
+  </body>
+</tt>

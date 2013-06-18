@@ -1,0 +1,56 @@
+WEBVTT
+
+0:00:01.688 --> 0:00:03.784
+Now let's take a look at Power View.
+
+0:00:04.629 --> 0:00:06.708
+You can use Power View to gain valuable
+
+0:00:06.709 --> 0:00:10.176
+insights into your data and
+make better decisions.
+
+0:00:10.177 --> 0:00:12.547
+I need to figure out how
+effective my marketing
+
+0:00:12.548 --> 0:00:16.115
+campaign was across a 12-month period.
+
+0:00:16.116 --> 0:00:18.626
+I open the campaign spreadsheet
+
+0:00:21.207 --> 0:00:24.542
+and click one of the blue
+bars at the top right.
+
+0:00:25.117 --> 0:00:27.123
+This filters my dashboard to display
+
+0:00:27.124 --> 0:00:30.411
+the sales revenue, sales
+quantity, and margins
+
+0:00:30.412 --> 0:00:33.124
+for each brand in my campaign.
+
+0:00:33.125 --> 0:00:35.032
+To see how revenue and sales changed
+
+0:00:35.033 --> 0:00:38.142
+over the months, I click Play.
+
+0:00:38.143 --> 0:00:40.256
+This gives us a full view of how the sales
+
+0:00:40.257 --> 0:00:43.132
+numbers changed over time.
+
+0:00:43.133 --> 0:00:45.099
+We can even take a closer look at the data
+
+0:00:45.100 --> 0:00:46.911
+by zooming in on the scatter plot
+
+0:00:46.912 --> 0:00:49.888
+to see all the details.

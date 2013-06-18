@@ -1,0 +1,433 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{49C0706A-192E-493B-A9CA-B86B22F98D7B}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DiscoverSharepointWeb</RootNamespace>
+    <AssemblyName>DiscoverSharepointWeb</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort>44316</IISExpressSSLPort>
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <TargetOfficeVersion>15.0</TargetOfficeVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>SDL6.0.ruleset</CodeAnalysisRuleSet>
+    <RunCodeAnalysis>true</RunCodeAnalysis>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.IdentityModel, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.IdentityModel.Extensions, Version=2.0.0.0, Culture=neutral, PublicKeyToken=69c3241e6f0468ca, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.SharePoint.Client, Version=15.0.0.0">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.SharePoint.Client.Runtime, Version=15.0.0.0">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.5.0.5\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IdentityModel" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\main.css" />
+    <Content Include="Content\normal.css" />
+    <Content Include="Content\normalize.css" />
+    <Content Include="Content\promo-metro.css" />
+    <Content Include="Content\style.css" />
+    <Content Include="Content\styles.css" />
+    <Content Include="Images\07.Provide the right support png.png" />
+    <Content Include="Images\1-top-SM %281%29.png" />
+    <Content Include="Images\1-top-SM.png" />
+    <Content Include="Images\1-top.png" />
+    <Content Include="Images\10tall_img.png" />
+    <Content Include="Images\11tall_img.png" />
+    <Content Include="Images\12tall_img.png" />
+    <Content Include="Images\13tall_img.png" />
+    <Content Include="Images\14tall_img.png" />
+    <Content Include="Images\15tall_img.png" />
+    <Content Include="Images\16tall_img.png" />
+    <Content Include="Images\17tall_img.png" />
+    <Content Include="Images\1tall_img.png" />
+    <Content Include="Images\2-getstarted-SM.png" />
+    <Content Include="Images\2-getstarted.png" />
+    <Content Include="Images\2tall_img.png" />
+    <Content Include="Images\3-it-SM.png" />
+    <Content Include="Images\3-it.png" />
+    <Content Include="Images\3tall_img.png" />
+    <Content Include="Images\4-hr-SM.png" />
+    <Content Include="Images\4-hr.png" />
+    <Content Include="Images\4tall_img.png" />
+    <Content Include="Images\5-rd-SM.png" />
+    <Content Include="Images\5-rd.png" />
+    <Content Include="Images\5tall_img.png" />
+    <Content Include="Images\6-sales-SM.png" />
+    <Content Include="Images\6-sales.png" />
+    <Content Include="Images\6tall_img.png" />
+    <Content Include="Images\7-finance-SM.png" />
+    <Content Include="Images\7-finance.png" />
+    <Content Include="Images\7tall_img.png" />
+    <Content Include="Images\8-legal-SM.png" />
+    <Content Include="Images\8-legal.png" />
+    <Content Include="Images\8tall_img.png" />
+    <Content Include="Images\9tall_img.png" />
+    <Content Include="Images\admin_checked.png" />
+    <Content Include="Images\admin_checkedbig.png" />
+    <Content Include="Images\admin_hidebig.png" />
+    <Content Include="Images\admin_invisible.png" />
+    <Content Include="Images\admin_unchecked.png" />
+    <Content Include="Images\admin_unchecked_invisible.png" />
+    <Content Include="Images\admin_visible.png" />
+    <Content Include="Images\alignsales-marketing-img.png" />
+    <Content Include="Images\alignsales-marketing.png" />
+    <Content Include="Images\arrow-green.png" />
+    <Content Include="Images\arrow-green2.png" />
+    <Content Include="Images\arrow-white.png" />
+    <Content Include="Images\arrow-yellow.png" />
+    <Content Include="Images\back.png" />
+    <Content Include="Images\benefit-star.png" />
+    <Content Include="Images\benefits.png" />
+    <Content Include="Images\benefits_bar.png" />
+    <Content Include="Images\benefits_bar2.png" />
+    <Content Include="Images\benefits_bar3.png" />
+    <Content Include="Images\benefits_bar4.png" />
+    <Content Include="Images\betterdecisions-general.png" />
+    <Content Include="Images\bigarrow-l.png" />
+    <Content Include="Images\bigarrow-r.png" />
+    <Content Include="Images\buildonline-marketing-img.png" />
+    <Content Include="Images\buildonline-marketing.png" />
+    <Content Include="Images\buttons\1-1rollover.png" />
+    <Content Include="Images\buttons\1-2rollover.png" />
+    <Content Include="Images\buttons\1-3rollover.png" />
+    <Content Include="Images\buttons\1-4rollover.png" />
+    <Content Include="Images\buttons\1-5rollover.png" />
+    <Content Include="Images\buttons\1-6rollover.png" />
+    <Content Include="Images\buttons\1-off-SM.png" />
+    <Content Include="Images\buttons\1-off.png" />
+    <Content Include="Images\buttons\10rollover-SM.png" />
+    <Content Include="Images\buttons\10rollover.png" />
+    <Content Include="Images\buttons\11rollover-SM.png" />
+    <Content Include="Images\buttons\11rollover.png" />
+    <Content Include="Images\buttons\12rollover-SM.png" />
+    <Content Include="Images\buttons\12rollover.png" />
+    <Content Include="Images\buttons\13rollover-SM.png" />
+    <Content Include="Images\buttons\13rollover.png" />
+    <Content Include="Images\buttons\14rollover-SM.png" />
+    <Content Include="Images\buttons\14rollover.png" />
+    <Content Include="Images\buttons\15rollover-SM.png" />
+    <Content Include="Images\buttons\15rollover.png" />
+    <Content Include="Images\buttons\16rollover-SM.png" />
+    <Content Include="Images\buttons\16rollover.png" />
+    <Content Include="Images\buttons\17rollover-SM.png" />
+    <Content Include="Images\buttons\17rollover.png" />
+    <Content Include="Images\buttons\1rollover-SM.png" />
+    <Content Include="Images\buttons\1rollover.png" />
+    <Content Include="Images\buttons\2-1rollover.png" />
+    <Content Include="Images\buttons\2-2rollover.png" />
+    <Content Include="Images\buttons\2-off-SM.png" />
+    <Content Include="Images\buttons\2-off.png" />
+    <Content Include="Images\buttons\2rollover-SM.png" />
+    <Content Include="Images\buttons\2rollover.png" />
+    <Content Include="Images\buttons\3-1rollover.png" />
+    <Content Include="Images\buttons\3-4rollover.png" />
+    <Content Include="Images\buttons\3-off-SM.png" />
+    <Content Include="Images\buttons\3-off.png" />
+    <Content Include="Images\buttons\3rollover-SM.png" />
+    <Content Include="Images\buttons\3rollover.png" />
+    <Content Include="Images\buttons\4-1rollover.png" />
+    <Content Include="Images\buttons\4-2rollover.png" />
+    <Content Include="Images\buttons\4-off-SM.png" />
+    <Content Include="Images\buttons\4-off.png" />
+    <Content Include="Images\buttons\4rollover-SM.png" />
+    <Content Include="Images\buttons\4rollover.png" />
+    <Content Include="Images\buttons\5-1rollover.png" />
+    <Content Include="Images\buttons\5-2rollover.png" />
+    <Content Include="Images\buttons\5-3rollover.png" />
+    <Content Include="Images\buttons\5-off-SM.png" />
+    <Content Include="Images\buttons\5-off.png" />
+    <Content Include="Images\buttons\5rollover-SM.png" />
+    <Content Include="Images\buttons\5rollover.png" />
+    <Content Include="Images\buttons\6-1rollover.png" />
+    <Content Include="Images\buttons\6-off-SM.png" />
+    <Content Include="Images\buttons\6-off.png" />
+    <Content Include="Images\buttons\6rollover-SM.png" />
+    <Content Include="Images\buttons\6rollover.png" />
+    <Content Include="Images\buttons\7-1rollover.png" />
+    <Content Include="Images\buttons\7-off-SM.png" />
+    <Content Include="Images\buttons\7-off.png" />
+    <Content Include="Images\buttons\7rollover-SM.png" />
+    <Content Include="Images\buttons\7rollover.png" />
+    <Content Include="Images\buttons\8rollover-SM.png" />
+    <Content Include="Images\buttons\8rollover.png" />
+    <Content Include="Images\buttons\9rollover-SM.png" />
+    <Content Include="Images\buttons\9rollover.png" />
+    <Content Include="Images\close.gif" />
+    <Content Include="Images\close.png" />
+    <Content Include="Images\close_guide.png" />
+    <Content Include="Images\comingsoon.png" />
+    <Content Include="Images\coming_soon_banner.png" />
+    <Content Include="Images\down-white.png" />
+    <Content Include="Images\down.png" />
+    <Content Include="Images\email_background.jpg" />
+    <Content Include="Images\empowerpeople-it-img.png" />
+    <Content Include="Images\empowerpeople-it.png" />
+    <Content Include="Images\experts-general.png" />
+    <Content Include="Images\facebook.png" />
+    <Content Include="Images\facebook_off.png" />
+    <Content Include="Images\facebook_sm.png" />
+    <Content Include="Images\favorite.png" />
+    <Content Include="Images\favorited.png" />
+    <Content Include="Images\favorite_off.png" />
+    <Content Include="Images\findwhatyouneed-general.png" />
+    <Content Include="Images\hide.png" />
+    <Content Include="Images\hr.png" />
+    <Content Include="Images\improvecustomer-marketing.png" />
+    <Content Include="Images\improveprocesses-randd.png" />
+    <Content Include="Images\informed-hr.png" />
+    <Content Include="Images\legal.png" />
+    <Content Include="Images\linkedin.png" />
+    <Content Include="Images\linkedin_off.png" />
+    <Content Include="Images\mail.png" />
+    <Content Include="Images\mail_off.png" />
+    <Content Include="Images\main_menu_line.gif" />
+    <Content Include="Images\makebetterdecisions-general.png" />
+    <Content Include="Images\mslogo.png" />
+    <Content Include="Images\next.png" />
+    <Content Include="Images\next_sm.png" />
+    <Content Include="Images\numbers-finance.png" />
+    <Content Include="Images\onboarding-hr.png" />
+    <Content Include="Images\ontrack-general.png" />
+    <Content Include="Images\placeholder.jpg" />
+    <Content Include="Images\playbtn.png" />
+    <Content Include="Images\playbtn_on.png" />
+    <Content Include="Images\pointer-0.png" />
+    <Content Include="Images\pointer-1.png" />
+    <Content Include="Images\pointer-11.png" />
+    <Content Include="Images\pointer-13.png" />
+    <Content Include="Images\pointer-14.png" />
+    <Content Include="Images\pointer-15.png" />
+    <Content Include="Images\pointer-16.png" />
+    <Content Include="Images\pointer-17.png" />
+    <Content Include="Images\pointer-7.png" />
+    <Content Include="Images\pointer-9.png" />
+    <Content Include="Images\pointer.png" />
+    <Content Include="Images\quotes.png" />
+    <Content Include="Images\quotes2.png" />
+    <Content Include="Images\rentention-legal.png" />
+    <Content Include="Images\rightsupport-it.png" />
+    <Content Include="Images\sales.png" />
+    <Content Include="Images\samepage-general.png" />
+    <Content Include="Images\scrollbar_background.gif" />
+    <Content Include="Images\send.png" />
+    <Content Include="Images\sharepoint.jpg" />
+    <Content Include="Images\sharepointapp_logo.png" />
+    <Content Include="Images\sharepointlogo-bottom.png" />
+    <Content Include="Images\sharepointlogo-top.png" />
+    <Content Include="Images\sharepoint_icon.png" />
+    <Content Include="Images\sharepractices-randd.png" />
+    <Content Include="Images\share_1.jpg" />
+    <Content Include="Images\share_2.jpg" />
+    <Content Include="Images\splogo_top.png" />
+    <Content Include="Images\status.gif" />
+    <Content Include="Images\storesync-general-img.png" />
+    <Content Include="Images\storesync-general.png" />
+    <Content Include="Images\tall_img.jpg" />
+    <Content Include="Images\tall_img.png" />
+    <Content Include="Images\testimonial_lady.png" />
+    <Content Include="Images\testimonial_person.png" />
+    <Content Include="Images\tint20.png" />
+    <Content Include="Images\tp.png" />
+    <Content Include="Images\twitter.png" />
+    <Content Include="Images\twitter_off.png" />
+    <Content Include="Images\twitter_sm.png" />
+    <Content Include="Images\unhide.png" />
+    <Content Include="Images\up-white.png" />
+    <Content Include="Images\up.png" />
+    <Content Include="Images\vidblue.jpg" />
+    <Content Include="Images\vision_poster.png" />
+    <Content Include="Images\work.png" />
+    <Content Include="Images\yammer.png" />
+    <Content Include="Images\yammer_off.png" />
+    <Content Include="packages.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <None Include="Properties\PublishProfiles\SharePoint101 - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\SharePoint101 - Web Deploy.pubxml" />
+    <None Include="Scripts\jquery-1.8.2.intellisense.js" />
+    <Content Include="Pages\Default.aspx" />
+    <Content Include="Scripts\jquery-1.8.2.js" />
+    <Content Include="Scripts\jquery-1.8.2.min.js" />
+    <Content Include="Scripts\jquery-1.8.3.min.js" />
+    <Content Include="Scripts\jquery.color.js" />
+    <Content Include="Scripts\main.js" />
+    <Content Include="Scripts\MicrosoftAjax.js" />
+    <Content Include="Scripts\modernizr-2.6.2.min.js" />
+    <Content Include="Scripts\SP.UI.Controls.js" />
+    <Content Include="Scripts\_references.js" />
+    <Content Include="Videos\1.1.png" />
+    <Content Include="Videos\1.2.png" />
+    <Content Include="Videos\1.3.png" />
+    <Content Include="Videos\10cap.txt" />
+    <Content Include="Videos\10cap.xml" />
+    <Content Include="Videos\11cap.txt" />
+    <Content Include="Videos\11cap.xml" />
+    <Content Include="Videos\12cap.txt" />
+    <Content Include="Videos\12cap.xml" />
+    <Content Include="Videos\13cap.txt" />
+    <Content Include="Videos\13cap.xml" />
+    <Content Include="Videos\14cap.txt" />
+    <Content Include="Videos\14cap.xml" />
+    <Content Include="Videos\15cap.txt" />
+    <Content Include="Videos\15cap.xml" />
+    <Content Include="Videos\16cap.txt" />
+    <Content Include="Videos\16cap.xml" />
+    <Content Include="Videos\17cap.txt" />
+    <Content Include="Videos\17cap.xml" />
+    <Content Include="Videos\18cap.txt" />
+    <Content Include="Videos\18cap.xml" />
+    <Content Include="Videos\19cap.txt" />
+    <Content Include="Videos\19cap.xml" />
+    <Content Include="Videos\1cap.xml" />
+    <Content Include="Videos\2.1.png" />
+    <Content Include="Videos\2.2.png" />
+    <Content Include="Videos\2.3.png" />
+    <Content Include="Videos\2cap.txt" />
+    <Content Include="Videos\2cap.xml" />
+    <Content Include="Videos\3.1.png" />
+    <Content Include="Videos\3.2.png" />
+    <Content Include="Videos\3.3.png" />
+    <Content Include="Videos\3cap.txt" />
+    <Content Include="Videos\3cap.xml" />
+    <Content Include="Videos\4.1.png" />
+    <Content Include="Videos\4.2.png" />
+    <Content Include="Videos\4.3.png" />
+    <Content Include="Videos\4cap.txt" />
+    <Content Include="Videos\4cap.xml" />
+    <Content Include="Videos\5.1.png" />
+    <Content Include="Videos\5.2.png" />
+    <Content Include="Videos\5.3.png" />
+    <Content Include="Videos\5cap.txt" />
+    <Content Include="Videos\5cap.xml" />
+    <Content Include="Videos\6.1.png" />
+    <Content Include="Videos\6.2.png" />
+    <Content Include="Videos\6.3.png" />
+    <Content Include="Videos\6cap.txt" />
+    <Content Include="Videos\6cap.xml" />
+    <Content Include="Videos\7cap.txt" />
+    <Content Include="Videos\7cap.xml" />
+    <Content Include="Videos\8cap.txt" />
+    <Content Include="Videos\8cap.xml" />
+    <Content Include="Videos\9cap.txt" />
+    <Content Include="Videos\9cap.xml" />
+    <Content Include="Videos\capmain.txt" />
+    <Content Include="Videos\capmain.xml" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Pages\Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TokenHelper.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Videos\1cap.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>12958</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:12496/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>True</UseCustomServer>
+          <CustomServerUrl>https://sharepoint101.azurewebsites.net</CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

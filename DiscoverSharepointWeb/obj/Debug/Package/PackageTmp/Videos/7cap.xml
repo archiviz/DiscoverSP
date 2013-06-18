@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/2006/10/ttaf1" xmlns:ttp="http://www.w3.org/2006/10/ttaf1#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/2006/10/ttaf1#style" xml:lang="en" xmlns:ttm="http://www.w3.org/2006/10/ttaf1#metadata">
+  <head>
+    <metadata>
+      <ttm:title>7cap</ttm:title>
+    </metadata>
+    <styling>
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+  </head>
+  <body tts:textAlign="center" style="s0">
+    <div>
+      <p begin="00:00:05.694" id="p0" end="00:00:07.357">Now you can see your projects from</p>
+      <p begin="00:00:07.358" id="p1" end="00:00:10.865">a whole new angle, thanks to the Timeline.</p>
+      <p begin="00:00:10.866" id="p2" end="00:00:12.770">To start exploring the Timeline,</p>
+      <p begin="00:00:12.771" id="p3" end="00:00:17.352">let's get into my Marketing<br />Campaign project site.</p>
+      <p begin="00:00:17.353" id="p4" end="00:00:20.225">Shared documents, newsfeeds,<br />and a customizable</p>
+      <p begin="00:00:20.226" id="p5" end="00:00:23.400">timeline are all conveniently<br />available on the team site</p>
+      <p begin="00:00:23.401" id="p6" end="00:00:26.016">to get everyone on the same page.</p>
+      <p begin="00:00:26.017" id="p7" end="00:00:27.875">Here, see how we can review</p>
+      <p begin="00:00:27.876" id="p8" end="00:00:33.213">the Project Summary from the Timeline.</p>
+      <p begin="00:00:33.214" id="p9" end="00:00:34.906">This is where you can quickly add</p>
+      <p begin="00:00:34.907" id="p10" end="00:00:41.408">and edit tasks directly<br />inline, specify due dates,</p>
+      <p begin="00:00:41.409" id="p11" end="00:00:44.205">or assign resources.</p>
+      <p begin="00:00:45.808" id="p12" end="00:00:48.681">Alternatively, you can<br />add tasks directly from</p>
+      <p begin="00:00:48.682" id="p13" end="00:00:52.990">an Excel workbook into the list.</p>
+      <p begin="00:00:52.991" id="p14" end="00:00:56.030">I simply copy/paste a task list from Excel</p>
+      <p begin="00:00:56.031" id="p15" end="00:00:58.433">into the Timeline.</p>
+      <p begin="00:01:01.836" id="p16" end="00:01:03.227">Remember that in SharePoint,</p>
+      <p begin="00:01:03.228" id="p17" end="00:01:05.919">you can assign only one resource per task,</p>
+      <p begin="00:01:05.920" id="p18" end="00:01:09.684">so it's important to pick a primary owner.</p>
+      <p begin="00:01:09.685" id="p19" end="00:01:11.997">To better organize tasks, simply use</p>
+      <p begin="00:01:11.998" id="p20" end="00:01:15.898">the indent/outdent buttons from the Ribbon.</p>
+      <p begin="00:01:26.589" id="p21" end="00:01:29.598">And these three dots are<br />also really useful -</p>
+      <p begin="00:01:29.599" id="p22" end="00:01:31.548">when you click on them, a menu opens</p>
+      <p begin="00:01:31.549" id="p23" end="00:01:33.786">where you can create subtasks,</p>
+      <p begin="00:01:33.787" id="p24" end="00:01:37.309">add tasks to the timeline,<br />specify priority,</p>
+      <p begin="00:01:37.310" id="p25" end="00:01:40.953">and complete other related activities.</p>
+      <p begin="00:01:54.716" id="p26" end="00:01:56.768">Now, when we review the tasks</p>
+      <p begin="00:01:56.769" id="p27" end="00:01:58.237">for the Marketing Campaign,</p>
+      <p begin="00:01:58.238" id="p28" end="00:02:00.258">we get a clear picture of the timeline,</p>
+      <p begin="00:02:00.259" id="p29" end="00:02:02.411">along with a full list of tasks,</p>
+      <p begin="00:02:02.412" id="p30" end="00:02:06.105">due dates, and assigned resources.</p>
+    </div>
+  </body>
+</tt>

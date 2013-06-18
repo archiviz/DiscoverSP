@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/2006/10/ttaf1" xmlns:ttp="http://www.w3.org/2006/10/ttaf1#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/2006/10/ttaf1#style" xml:lang="en" xmlns:ttm="http://www.w3.org/2006/10/ttaf1#metadata">
+  <head>
+    <metadata>
+      <ttm:title>3cap</ttm:title>
+    </metadata>
+    <styling>
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+  </head>
+  <body tts:textAlign="center" style="s0">
+    <div>
+      <p begin="00:00:05.501" id="p0" end="00:00:08.002">You can use newsfeeds to share information,</p>
+      <p begin="00:00:08.003" id="p1" end="00:00:10.297">connect with people, find answers,</p>
+      <p begin="00:00:10.298" id="p2" end="00:00:12.326">and stay on top of what's making headlines</p>
+      <p begin="00:00:12.327" id="p3" end="00:00:14.302">in your organization.</p>
+      <p begin="00:00:14.303" id="p4" end="00:00:16.845">Newsfeeds allow people to engage in short,</p>
+      <p begin="00:00:16.846" id="p5" end="00:00:19.497">public conversations and follow experts</p>
+      <p begin="00:00:19.498" id="p6" end="00:00:23.635">and topics of interest to<br />get things done together.</p>
+      <p begin="00:00:23.636" id="p7" end="00:00:25.739">For example, you can post a status</p>
+      <p begin="00:00:25.740" id="p8" end="00:00:27.919">to capture people's ideas and feedback</p>
+      <p begin="00:00:27.920" id="p9" end="00:00:31.336">on a document you're working on.</p>
+      <p begin="00:00:31.337" id="p10" end="00:00:34.205">Type a message in the Share field.</p>
+      <p begin="00:00:38.133" id="p11" end="00:00:39.934">Copy and paste the link of the document</p>
+      <p begin="00:00:39.935" id="p12" end="00:00:43.199">you want to share with people.</p>
+      <p begin="00:00:49.004" id="p13" end="00:00:51.284">Use a hash tag like #SuccessStories</p>
+      <p begin="00:00:51.285" id="p14" end="00:00:53.340">to organize information.</p>
+      <p begin="00:00:53.341" id="p15" end="00:00:54.739">Notice that as we type,</p>
+      <p begin="00:00:54.740" id="p16" end="00:00:58.246">we see suggested hash<br />tags that already exist.</p>
+      <p begin="00:00:58.247" id="p17" end="00:00:59.692">If you don't find what you need,</p>
+      <p begin="00:00:59.693" id="p18" end="00:01:03.600">just create a new one by<br />submitting your post.</p>
+      <p begin="00:01:08.312" id="p19" end="00:01:09.763">You can also view and follow</p>
+      <p begin="00:01:09.764" id="p20" end="00:01:12.164">other people's posts and documents,</p>
+      <p begin="00:01:12.165" id="p21" end="00:01:14.186">helping you to stay in<br />touch with the community</p>
+      <p begin="00:01:14.187" id="p22" end="00:01:17.000">and always keep up-to-date.</p>
+    </div>
+  </body>
+</tt>

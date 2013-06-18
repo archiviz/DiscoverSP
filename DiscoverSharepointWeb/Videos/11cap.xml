@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/2006/10/ttaf1" xmlns:ttp="http://www.w3.org/2006/10/ttaf1#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/2006/10/ttaf1#style" xml:lang="en" xmlns:ttm="http://www.w3.org/2006/10/ttaf1#metadata">
+  <head>
+    <metadata>
+      <ttm:title>11cap</ttm:title>
+    </metadata>
+    <styling>
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+  </head>
+  <body tts:textAlign="center" style="s0">
+    <div>
+      <p begin="00:00:05.547" id="p0" end="00:00:08.141">Newsfeeds help you stay<br />in touch with communities</p>
+      <p begin="00:00:08.142" id="p1" end="00:00:10.736">that self-organize around specific topics</p>
+      <p begin="00:00:10.737" id="p2" end="00:00:12.562">using hash tags.</p>
+      <p begin="00:00:12.563" id="p3" end="00:00:14.842">But you can also manage<br />and structure communities</p>
+      <p begin="00:00:14.843" id="p4" end="00:00:17.966">using dedicated Sites to<br />categorize discussions</p>
+      <p begin="00:00:17.967" id="p5" end="00:00:20.056">and to connect with<br />people who have knowledge</p>
+      <p begin="00:00:20.057" id="p6" end="00:00:22.683">or seek knowledge about these topics.</p>
+      <p begin="00:00:22.684" id="p7" end="00:00:24.448">Here's where you get the tools you need</p>
+      <p begin="00:00:24.449" id="p8" end="00:00:26.729">to manage your community site.</p>
+      <p begin="00:00:26.730" id="p9" end="00:00:29.673">You can use categories<br />to organize discussions</p>
+      <p begin="00:00:29.674" id="p10" end="00:00:32.099">and create gifted badges that make it easy</p>
+      <p begin="00:00:32.100" id="p11" end="00:00:34.895">to visually identify a<br />person's membership status,</p>
+      <p begin="00:00:34.896" id="p12" end="00:00:36.799">so you can tell right away if that person's</p>
+      <p begin="00:00:36.800" id="p13" end="00:00:39.357">an expert, for example.</p>
+      <p begin="00:00:39.358" id="p14" end="00:00:41.429">You can also see what<br />activities are going on</p>
+      <p begin="00:00:41.430" id="p15" end="00:00:43.075">and who the top contributors are</p>
+      <p begin="00:00:43.076" id="p16" end="00:00:44.056">in that community.</p>
+      <p begin="00:00:44.057" id="p17" end="00:00:47.021">This can really help drive<br />community engagement.</p>
+      <p begin="00:00:47.022" id="p18" end="00:00:48.633">Let's click on What's Hot</p>
+      <p begin="00:00:48.634" id="p19" end="00:00:49.776">to view the Top discussions.</p>
+      <p begin="00:00:52.797" id="p20" end="00:00:54.642">My Discussions shows what discussions</p>
+      <p begin="00:00:54.643" id="p21" end="00:00:57.973">I initiated, along with<br />any replies to them.</p>
+      <p begin="00:00:57.974" id="p22" end="00:01:00.330">Take a look at all the<br />different categories here,</p>
+      <p begin="00:01:00.331" id="p23" end="00:01:03.830">like Sales, Analysis, and Training…</p>
+      <p begin="00:01:07.053" id="p24" end="00:01:09.690">and now view a discussion in detail.</p>
+      <p begin="00:01:09.691" id="p25" end="00:01:12.110">Here's the list of replies to a discussion.</p>
+      <p begin="00:01:12.111" id="p26" end="00:01:16.233">Let's mark the reply from<br />Janet as Best reply.</p>
+      <p begin="00:01:17.751" id="p27" end="00:01:21.529">As you can see, the best<br />reply gets featured.</p>
+    </div>
+  </body>
+</tt>

@@ -1,0 +1,102 @@
+WEBVTT
+
+0:00:05.312 --> 0:00:07.792
+Search also helps you
+discover digital content
+
+0:00:07.793 --> 0:00:11.070
+across your enterprise, like videos.
+
+0:00:11.071 --> 0:00:12.887
+You don't have to do anything special.
+
+0:00:12.888 --> 0:00:14.644
+Just start typing and the search engine
+
+0:00:14.645 --> 0:00:16.617
+will figure out what
+you're looking for based
+
+0:00:16.618 --> 0:00:21.124
+on keywords like “speech,”
+“talk,” or “video.”
+
+0:00:21.125 --> 0:00:23.241
+As you can see, all the relevant videos
+
+0:00:23.242 --> 0:00:26.373
+get surfaced directly at the top.
+
+0:00:26.374 --> 0:00:28.872
+Now I actually do want
+to do something special;
+
+0:00:28.873 --> 0:00:30.689
+I want to refine the results.
+
+0:00:30.690 --> 0:00:33.175
+So I click on Show More, and it takes us
+
+0:00:33.176 --> 0:00:35.339
+to the video results page, where we can see
+
+0:00:35.340 --> 0:00:37.773
+the refiners for our search results.
+
+0:00:37.774 --> 0:00:39.889
+Refiners let you dig deeper and get results
+
+0:00:39.890 --> 0:00:41.885
+based on a specific person featured
+
+0:00:41.886 --> 0:00:44.993
+in the video or some other criteria.
+
+0:00:44.994 --> 0:00:47.564
+I can use this one to
+filter the results based on
+
+0:00:47.565 --> 0:00:51.078
+when the video file was last modified.
+
+0:00:51.079 --> 0:00:53.077
+Sometimes you want to get a quick preview
+
+0:00:53.078 --> 0:00:54.608
+of something before you open it up
+
+0:00:54.609 --> 0:00:55.970
+or download it.
+
+0:00:55.971 --> 0:00:58.146
+That's what the Hover Panel is for.
+
+0:00:58.147 --> 0:00:59.987
+It lets you watch a preview of the video
+
+0:00:59.988 --> 0:01:01.505
+and gives you the option to view
+
+0:01:01.506 --> 0:01:04.279
+more information, download it, share it,
+
+0:01:04.280 --> 0:01:06.072
+or even rate it.
+
+0:01:06.073 --> 0:01:08.056
+I click View to get more details
+
+0:01:08.057 --> 0:01:09.120
+about the video.
+
+0:01:09.121 --> 0:01:11.063
+It takes us to a player
+page with properties
+
+0:01:11.064 --> 0:01:13.527
+about the video, telling
+us who the video owner
+
+0:01:13.528 --> 0:01:17.866
+is and giving us a list
+of related documents.

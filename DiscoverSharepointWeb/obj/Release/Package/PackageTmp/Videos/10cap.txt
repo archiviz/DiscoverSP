@@ -1,0 +1,124 @@
+WEBVTT
+
+0:00:05.382 --> 0:00:07.752
+Newsfeeds help you share information,
+
+0:00:07.753 --> 0:00:09.616
+have productive conversations
+with colleagues
+
+0:00:09.617 --> 0:00:12.402
+to get things done together,
+and stay connected
+
+0:00:12.403 --> 0:00:14.573
+with individuals and
+groups who share the same
+
+0:00:14.574 --> 0:00:17.066
+interests as you.
+
+0:00:18.212 --> 0:00:19.898
+“Following” shows you updates
+
+0:00:19.899 --> 0:00:21.920
+related to what you're currently following:
+
+0:00:21.921 --> 0:00:25.351
+people, documents, sites, and tags.
+
+0:00:25.352 --> 0:00:27.790
+“Everyone” shows posts from nearly everyone
+
+0:00:27.791 --> 0:00:29.406
+in your organization, whether you're
+
+0:00:29.407 --> 0:00:31.925
+following them or not.
+
+0:00:31.926 --> 0:00:34.017
+“Mentions” shows posts where your name
+
+0:00:34.018 --> 0:00:36.248
+is mentioned so you don't miss a thing.
+
+0:00:36.249 --> 0:00:39.341
+As Alex, I need some sales
+expertise for a meeting,
+
+0:00:39.342 --> 0:00:41.533
+so I start a conversation with the hash tag
+
+0:00:41.534 --> 0:00:42.802
+#Sales.
+
+0:00:42.803 --> 0:00:44.666
+Hash tags let you organize content
+
+0:00:44.667 --> 0:00:45.842
+the way you want.
+
+0:00:45.843 --> 0:00:47.399
+That means you can quickly view all the
+
+0:00:47.400 --> 0:00:49.540
+conversations that reference that tag.
+
+0:00:49.541 --> 0:00:51.464
+More importantly, you can use hash tags
+
+0:00:51.465 --> 0:00:53.368
+to get in touch with
+people who are following
+
+0:00:53.369 --> 0:00:54.795
+the topic you've tagged,
+
+0:00:54.796 --> 0:00:56.469
+people who are most likely to have
+
+0:00:56.470 --> 0:00:58.900
+the knowledge you need.
+
+0:01:01.219 --> 0:01:03.311
+Now Janet sees my post and replies
+
+0:01:03.312 --> 0:01:06.100
+back to me with @mention
+
+0:01:08.209 --> 0:01:11.033
+so that I get a notification.
+
+0:01:12.502 --> 0:01:15.477
+I see Janet's reply and
+I start following her.
+
+0:01:15.478 --> 0:01:17.661
+I also add a reminder to follow up.
+
+0:01:17.662 --> 0:01:19.912
+This automatically creates a task in my
+
+0:01:19.913 --> 0:01:22.678
+personal to-do-list.
+
+0:01:22.679 --> 0:01:25.504
+With Lync, I can initiate a chat, a call,
+
+0:01:25.505 --> 0:01:27.714
+or a video conference with Janet directly
+
+0:01:27.715 --> 0:01:29.995
+from my newsfeed whenever I want to.
+
+0:01:29.996 --> 0:01:32.087
+As you can see, the newsfeed also
+
+0:01:32.088 --> 0:01:34.110
+gives you quick access to the people,
+
+0:01:34.111 --> 0:01:36.103
+documents, sites, and tags
+
+0:01:36.104 --> 0:01:37.610
+that you're following.

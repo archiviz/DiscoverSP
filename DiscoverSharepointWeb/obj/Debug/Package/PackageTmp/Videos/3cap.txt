@@ -1,0 +1,74 @@
+WEBVTT
+
+0:00:05.501 --> 0:00:08.002
+You can use newsfeeds to share information,
+
+0:00:08.003 --> 0:00:10.297
+connect with people, find answers,
+
+0:00:10.298 --> 0:00:12.326
+and stay on top of what's making headlines
+
+0:00:12.327 --> 0:00:14.302
+in your organization.
+
+0:00:14.303 --> 0:00:16.845
+Newsfeeds allow people to engage in short,
+
+0:00:16.846 --> 0:00:19.497
+public conversations and follow experts
+
+0:00:19.498 --> 0:00:23.635
+and topics of interest to
+get things done together.
+
+0:00:23.636 --> 0:00:25.739
+For example, you can post a status
+
+0:00:25.740 --> 0:00:27.919
+to capture people's ideas and feedback
+
+0:00:27.920 --> 0:00:31.336
+on a document you're working on.
+
+0:00:31.337 --> 0:00:34.205
+Type a message in the Share field.
+
+0:00:38.133 --> 0:00:39.934
+Copy and paste the link of the document
+
+0:00:39.935 --> 0:00:43.199
+you want to share with people.
+
+0:00:49.004 --> 0:00:51.284
+Use a hash tag like #SuccessStories
+
+0:00:51.285 --> 0:00:53.340
+to organize information.
+
+0:00:53.341 --> 0:00:54.739
+Notice that as we type,
+
+0:00:54.740 --> 0:00:58.246
+we see suggested hash
+tags that already exist.
+
+0:00:58.247 --> 0:00:59.692
+If you don't find what you need,
+
+0:00:59.693 --> 0:01:03.600
+just create a new one by
+submitting your post.
+
+0:01:08.312 --> 0:01:09.763
+You can also view and follow
+
+0:01:09.764 --> 0:01:12.164
+other people's posts and documents,
+
+0:01:12.165 --> 0:01:14.186
+helping you to stay in
+touch with the community
+
+0:01:14.187 --> 0:01:17.000
+and always keep up-to-date.

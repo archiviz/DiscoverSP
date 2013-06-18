@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/2006/10/ttaf1" xmlns:ttp="http://www.w3.org/2006/10/ttaf1#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/2006/10/ttaf1#style" xml:lang="en" xmlns:ttm="http://www.w3.org/2006/10/ttaf1#metadata">
+  <head>
+    <metadata>
+      <ttm:title>5cap</ttm:title>
+    </metadata>
+    <styling>
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+  </head>
+  <body tts:textAlign="center" style="s0">
+    <div>
+      <p begin="00:00:02.939" id="p0" end="00:00:04.672">Did you know that when you create a site</p>
+      <p begin="00:00:04.673" id="p1" end="00:00:06.395">for your team, a shared notebook</p>
+      <p begin="00:00:06.396" id="p2" end="00:00:07.970">is automatically added?</p>
+      <p begin="00:00:07.971" id="p3" end="00:00:10.376">This is a fantastic collaboration tool</p>
+      <p begin="00:00:10.377" id="p4" end="00:00:14.084">to capture, compile, and share information.</p>
+      <p begin="00:00:14.085" id="p5" end="00:00:16.066">Let’s open one.</p>
+      <p begin="00:00:17.637" id="p6" end="00:00:18.838">All members of the team site</p>
+      <p begin="00:00:18.839" id="p7" end="00:00:20.710">can use the notebook.</p>
+      <p begin="00:00:20.711" id="p8" end="00:00:23.480">People can take notes,<br />insert text and pictures,</p>
+      <p begin="00:00:23.481" id="p9" end="00:00:25.363">and even record audio and video -</p>
+      <p begin="00:00:25.364" id="p10" end="00:00:28.466">all together at the same time.</p>
+      <p begin="00:00:31.884" id="p11" end="00:00:34.634">In addition, teammates<br />using Office can open</p>
+      <p begin="00:00:34.635" id="p12" end="00:00:36.982">and sync the notebook<br />on their local desktop</p>
+      <p begin="00:00:36.983" id="p13" end="00:00:40.083">by clicking Open in OneNote.</p>
+      <p begin="00:00:42.604" id="p14" end="00:00:44.662">Plus, they can send back reports or notes</p>
+      <p begin="00:00:44.663" id="p15" end="00:00:46.433">through email</p>
+      <p begin="00:00:48.659" id="p16" end="00:00:50.533">and insert meeting information from their</p>
+      <p begin="00:00:50.534" id="p17" end="00:00:54.933">Outlook calendar - all in one single click.</p>
+      <p begin="00:00:57.575" id="p18" end="00:01:00.256">Finally, team members can access and sync</p>
+      <p begin="00:01:00.257" id="p19" end="00:01:03.067">the notebook on multiple devices.</p>
+      <p begin="00:01:03.068" id="p20" end="00:01:04.864">This way, your shared notes are available</p>
+      <p begin="00:01:04.865" id="p21" end="00:01:07.342">from virtually anywhere and stay in sync</p>
+      <p begin="00:01:07.343" id="p22" end="00:01:10.300">across devices.</p>
+    </div>
+  </body>
+</tt>

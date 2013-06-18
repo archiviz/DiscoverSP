@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/2006/10/ttaf1" xmlns:ttp="http://www.w3.org/2006/10/ttaf1#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/2006/10/ttaf1#style" xml:lang="en" xmlns:ttm="http://www.w3.org/2006/10/ttaf1#metadata">
+  <head>
+    <metadata>
+      <ttm:title>6cap</ttm:title>
+    </metadata>
+    <styling>
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+  </head>
+  <body tts:textAlign="center" style="s0">
+    <div>
+      <p begin="00:00:05.392" id="p0" end="00:00:07.532">Now let me walk you<br />through the site mailbox</p>
+      <p begin="00:00:07.533" id="p1" end="00:00:09.275">and calendars.</p>
+      <p begin="00:00:09.276" id="p2" end="00:00:12.389">Let's start with the site mailbox.</p>
+      <p begin="00:00:12.390" id="p3" end="00:00:15.911">Email plays a crucial role<br />in everyday communication.</p>
+      <p begin="00:00:15.912" id="p4" end="00:00:18.143">But while it lets us share<br />important information,</p>
+      <p begin="00:00:18.144" id="p5" end="00:00:20.423">it sometimes excludes other team members</p>
+      <p begin="00:00:20.424" id="p6" end="00:00:22.352">from the conversation.</p>
+      <p begin="00:00:22.353" id="p7" end="00:00:24.525">The site mailbox can help all teammates</p>
+      <p begin="00:00:24.526" id="p8" end="00:00:26.351">instantly get on the same page</p>
+      <p begin="00:00:26.352" id="p9" end="00:00:29.167">by simply using a shared inbox.</p>
+      <p begin="00:00:29.168" id="p10" end="00:00:32.397">Here, I can access the<br />site mailbox from our site</p>
+      <p begin="00:00:32.398" id="p11" end="00:00:35.813">and see our emails in the Outlook Web App.</p>
+      <p begin="00:00:35.814" id="p12" end="00:00:39.208">Notice that when I switch to Outlook,</p>
+      <p begin="00:00:39.209" id="p13" end="00:00:42.914">the site mailbox is<br />synchronized with Outlook,</p>
+      <p begin="00:00:42.915" id="p14" end="00:00:46.367">along with my personal inbox.</p>
+      <p begin="00:00:46.368" id="p15" end="00:00:48.806">Now what's really useful here is that I can</p>
+      <p begin="00:00:48.807" id="p16" end="00:00:51.527">drag an email from my personal inbox</p>
+      <p begin="00:00:51.528" id="p17" end="00:00:53.532">and drop it in the site mailbox,</p>
+      <p begin="00:00:53.533" id="p18" end="00:00:55.372">giving everyone on my team access</p>
+      <p begin="00:00:55.373" id="p19" end="00:00:58.663">to this message at the same time.</p>
+      <p begin="00:00:58.664" id="p20" end="00:01:01.325">It works the same way with attachments:</p>
+      <p begin="00:01:01.326" id="p21" end="00:01:03.187">drag an attachment from an email</p>
+      <p begin="00:01:03.188" id="p22" end="00:01:05.874">into the documents folder,<br />and it automatically</p>
+      <p begin="00:01:05.875" id="p23" end="00:01:10.214">syncs with the site's document library.</p>
+      <p begin="00:01:10.215" id="p24" end="00:01:11.670">Let's head back to the team site</p>
+      <p begin="00:01:11.671" id="p25" end="00:01:13.223">and view the updates I've made</p>
+      <p begin="00:01:13.224" id="p26" end="00:01:16.549">in the site mailbox and document library.</p>
+      <p begin="00:01:16.550" id="p27" end="00:01:19.992">So here we have the new email</p>
+      <p begin="00:01:19.993" id="p28" end="00:01:22.705">and the attachment.</p>
+      <p begin="00:01:22.706" id="p29" end="00:01:25.376">Let's move on to calendars.</p>
+      <p begin="00:01:25.377" id="p30" end="00:01:27.982">You can use calendars to<br />keep everyone up to date</p>
+      <p begin="00:01:27.983" id="p31" end="00:01:30.325">on upcoming meetings and travel.</p>
+      <p begin="00:01:30.326" id="p32" end="00:01:32.117">And, just like with emails,</p>
+      <p begin="00:01:32.118" id="p33" end="00:01:35.993">calendars can be synchronized<br />directly inside Outlook.</p>
+      <p begin="00:01:35.994" id="p34" end="00:01:39.026">When I click Connect to Outlook,</p>
+      <p begin="00:01:39.027" id="p35" end="00:01:41.002">the team calendar syncs with Outlook</p>
+      <p begin="00:01:41.003" id="p36" end="00:01:43.151">and appears under Other Calendars</p>
+      <p begin="00:01:43.152" id="p37" end="00:01:45.263">in my calendar folder.</p>
+      <p begin="00:01:45.264" id="p38" end="00:01:47.120">Note how my personal calendar</p>
+      <p begin="00:01:47.121" id="p39" end="00:01:49.549">and the team site calendar can be seen</p>
+      <p begin="00:01:49.550" id="p40" end="00:01:52.647">together in side-by-side view.</p>
+      <p begin="00:01:52.648" id="p41" end="00:01:55.717">This view is especially helpful<br />for organizing meetings</p>
+      <p begin="00:01:55.718" id="p42" end="00:01:59.600">while keeping an eye out<br />for scheduling conflicts.</p>
+      <p begin="00:02:00.649" id="p43" end="00:02:04.642">Now let's go back to the team site calendar</p>
+      <p begin="00:02:04.643" id="p44" end="00:02:06.317">and see that my changes in Outlook</p>
+      <p begin="00:02:06.318" id="p45" end="00:02:08.699">are automatically synchronized.</p>
+    </div>
+  </body>
+</tt>

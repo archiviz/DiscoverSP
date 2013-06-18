@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="c:\program files (x86)\microsoft visual studio 11.0\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="11.0">
+ <Targets>
+  <Target Name="X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\bin\DiscoverSharepointWeb.dll">
+   <Modules>
+    <Module Name="discoversharepointweb.dll">
+     <Messages>
+      <Message Id="obj/release/csautoparameterize/original/web.config#configuration/connectionStrings/add[@name='myConnectionString' and @connectionString]" TypeName="EncryptConnectionStrings" Category="Microsoft.Security.Web.Configuration" CheckId="CA3113" Status="Active" Created="2013-06-17 23:09:55Z" FixCategory="DependsOnFix">
+       <Issue Certainty="75" Level="Error" Path="X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\obj\Release\CSAutoParameterize\original" File="Web.config" Line="64">Always encrypt database connection strings using an approved algorithm. Encrypt the connection string in unit DiscoverSharepointWeb file X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\obj\Release\CSAutoParameterize\original\Web.config line 64 column 36</Issue>
+      </Message>
+      <Message Id="obj/release/csautoparameterize/transformed/web.config#configuration/connectionStrings/add[@name='myConnectionString' and @connectionString]" TypeName="EncryptConnectionStrings" Category="Microsoft.Security.Web.Configuration" CheckId="CA3113" Status="Active" Created="2013-06-17 23:09:55Z" FixCategory="DependsOnFix">
+       <Issue Certainty="75" Level="Error" Path="X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\obj\Release\CSAutoParameterize\transformed" File="Web.config" Line="64">Always encrypt database connection strings using an approved algorithm. Encrypt the connection string in unit DiscoverSharepointWeb file X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\obj\Release\CSAutoParameterize\transformed\Web.config line 64 column 36</Issue>
+      </Message>
+      <Message Id="obj/release/package/packagetmp/web.config#configuration/connectionStrings/add[@name='myConnectionString' and @connectionString]" TypeName="EncryptConnectionStrings" Category="Microsoft.Security.Web.Configuration" CheckId="CA3113" Status="Active" Created="2013-06-17 23:09:55Z" FixCategory="DependsOnFix">
+       <Issue Certainty="75" Level="Error" Path="X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\obj\Release\Package\PackageTmp" File="Web.config" Line="64">Always encrypt database connection strings using an approved algorithm. Encrypt the connection string in unit DiscoverSharepointWeb file X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\obj\Release\Package\PackageTmp\Web.config line 64 column 36</Issue>
+      </Message>
+      <Message Id="obj/release/transformwebconfig/original/web.config#configuration/connectionStrings/add[@name='myConnectionString' and @connectionString]" TypeName="EncryptConnectionStrings" Category="Microsoft.Security.Web.Configuration" CheckId="CA3113" Status="Active" Created="2013-06-17 23:09:55Z" FixCategory="DependsOnFix">
+       <Issue Certainty="75" Level="Error" Path="X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\obj\Release\TransformWebConfig\original" File="Web.config" Line="64">Always encrypt database connection strings using an approved algorithm. Encrypt the connection string in unit DiscoverSharepointWeb file X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\obj\Release\TransformWebConfig\original\Web.config line 64 column 36</Issue>
+      </Message>
+      <Message Id="obj/release/transformwebconfig/transformed/web.config#configuration/connectionStrings/add[@name='myConnectionString' and @connectionString]" TypeName="EncryptConnectionStrings" Category="Microsoft.Security.Web.Configuration" CheckId="CA3113" Status="Active" Created="2013-06-17 23:09:55Z" FixCategory="DependsOnFix">
+       <Issue Certainty="75" Level="Error" Path="X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\obj\Release\TransformWebConfig\transformed" File="Web.config" Line="64">Always encrypt database connection strings using an approved algorithm. Encrypt the connection string in unit DiscoverSharepointWeb file X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\obj\Release\TransformWebConfig\transformed\Web.config line 64 column 36</Issue>
+      </Message>
+      <Message Id="web.config#configuration/connectionStrings/add[@name='myConnectionString' and @connectionString]" TypeName="EncryptConnectionStrings" Category="Microsoft.Security.Web.Configuration" CheckId="CA3113" Status="Active" Created="2013-06-17 23:09:55Z" FixCategory="DependsOnFix">
+       <Issue Certainty="75" Level="Error" Path="X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb" File="Web.config" Line="64">Always encrypt database connection strings using an approved algorithm. Encrypt the connection string in unit DiscoverSharepointWeb file X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\Web.config line 64 column 36</Issue>
+      </Message>
+     </Messages>
+     <Namespaces>
+      <Namespace Name="DiscoverSharepointWeb">
+       <Types>
+        <Type Name="SharePointContextToken" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#CacheKey" Kind="Property" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Accessors>
+            <Accessor Name="#get_CacheKey()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+             <Messages>
+              <Message TypeName="PassSystemUriObjectsInsteadOfStrings" Category="Microsoft.Usage" CheckId="CA2234" Status="Active" Created="2013-06-17 23:09:55Z" FixCategory="NonBreaking">
+               <Issue Certainty="75" Level="Warning" Path="x:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb" File="TokenHelper.cs" Line="997">Modify 'SharePointContextToken.CacheKey.get()' to call 'ClientContext.ClientContext(Uri)' instead of 'ClientContext.ClientContext(string)'.</Issue>
+              </Message>
+             </Messages>
+            </Accessor>
+           </Accessors>
+          </Member>
+          <Member Name="#SecurityTokenServiceUri" Kind="Property" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Accessors>
+            <Accessor Name="#get_SecurityTokenServiceUri()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+             <Messages>
+              <Message TypeName="PassSystemUriObjectsInsteadOfStrings" Category="Microsoft.Usage" CheckId="CA2234" Status="Active" Created="2013-06-17 23:09:55Z" FixCategory="NonBreaking">
+               <Issue Certainty="75" Level="Warning" Path="x:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb" File="TokenHelper.cs" Line="1018">Modify 'SharePointContextToken.SecurityTokenServiceUri.get()' to call 'ClientContext.ClientContext(Uri)' instead of 'ClientContext.ClientContext(string)'.</Issue>
+              </Message>
+             </Messages>
+            </Accessor>
+           </Accessors>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="TokenHelper" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#GetAppContextTokenRequestUrl(System.String,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="System.String.Format(System.String,System.Object[])" TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305" Status="Active" Created="2013-06-17 23:09:55Z" FixCategory="NonBreaking">
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="x:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb" File="TokenHelper.cs" Line="513">Because the behavior of 'string.Format(string, params object[])' could vary based on the current user's locale settings, replace this call in 'TokenHelper.GetAppContextTokenRequestUrl(string, string)' with a call to 'string.Format(IFormatProvider, string, params object[])'. If the result of 'string.Format(IFormatProvider, string, params object[])' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetAuthorizationUrl(System.String,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="System.String.Format(System.String,System.Object[])" TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305" Status="Active" Created="2013-06-17 23:09:55Z" FixCategory="NonBreaking">
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="x:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb" File="TokenHelper.cs" Line="476">Because the behavior of 'string.Format(string, params object[])' could vary based on the current user's locale settings, replace this call in 'TokenHelper.GetAuthorizationUrl(string, string)' with a call to 'string.Format(IFormatProvider, string, params object[])'. If the result of 'string.Format(IFormatProvider, string, params object[])' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetAuthorizationUrl(System.String,System.String,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="System.String.Format(System.String,System.Object[])" TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305" Status="Active" Created="2013-06-17 23:09:55Z" FixCategory="NonBreaking">
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="x:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb" File="TokenHelper.cs" Line="496">Because the behavior of 'string.Format(string, params object[])' could vary based on the current user's locale settings, replace this call in 'TokenHelper.GetAuthorizationUrl(string, string, string)' with a call to 'string.Format(IFormatProvider, string, params object[])'. If the result of 'string.Format(IFormatProvider, string, params object[])' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetClaimsWithWindowsIdentity(System.Security.Principal.WindowsIdentity)" Kind="Method" Static="True" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message Id="System.String.ToLower" TypeName="SpecifyCultureInfo" Category="Microsoft.Globalization" CheckId="CA1304" Status="Active" Created="2013-06-17 23:09:55Z" FixCategory="DependsOnFix">
+             <Issue Certainty="95" Level="Error" Path="x:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb" File="TokenHelper.cs" Line="738">Because the behavior of 'string.ToLower()' could vary based on the current user's locale settings, replace this call in 'TokenHelper.GetClaimsWithWindowsIdentity(WindowsIdentity)' with a call to 'string.ToLower(CultureInfo)'. If the result of 'string.ToLower(CultureInfo)' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'CultureInfo' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetClientContextWithAccessToken(System.String,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="PassSystemUriObjectsInsteadOfStrings" Category="Microsoft.Usage" CheckId="CA2234" Status="Active" Created="2013-06-17 23:09:55Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning" Path="x:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb" File="TokenHelper.cs" Line="441">Modify 'TokenHelper.GetClientContextWithAccessToken(string, string)' to call 'ClientContext.ClientContext(Uri)' instead of 'ClientContext.ClientContext(string)'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetRealmFromTargetUrl(System.Uri)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="PassSystemUriObjectsInsteadOfStrings" Category="Microsoft.Usage" CheckId="CA2234" Status="Active" Created="2013-06-17 23:09:55Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning" Path="x:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb" File="TokenHelper.cs" Line="568">Modify 'TokenHelper.GetRealmFromTargetUrl(Uri)' to call 'WebRequest.Create(Uri)' instead of 'WebRequest.Create(string)'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#IssueToken(System.String,System.String,System.String,System.String,System.String,System.String,System.Boolean,System.Collections.Generic.IEnumerable`1&lt;Microsoft.IdentityModel.S2S.Tokens.JsonWebTokenClaim&gt;,System.Boolean)" Kind="Method" Static="True" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message Id="System.String.Format(System.String,System.Object,System.Object)" TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305" Status="Active" Created="2013-06-17 23:09:55Z" FixCategory="NonBreaking">
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="x:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb" File="TokenHelper.cs" Line="764">Because the behavior of 'string.Format(string, object, object)' could vary based on the current user's locale settings, replace this call in 'TokenHelper.IssueToken(string, string, string, string, string, string, bool, IEnumerable&lt;JsonWebTokenClaim&gt;, bool)' with a call to 'string.Format(IFormatProvider, string, params object[])'. If the result of 'string.Format(IFormatProvider, string, params object[])' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="x:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb" File="TokenHelper.cs" Line="765">Because the behavior of 'string.Format(string, object, object)' could vary based on the current user's locale settings, replace this call in 'TokenHelper.IssueToken(string, string, string, string, string, string, bool, IEnumerable&lt;JsonWebTokenClaim&gt;, bool)' with a call to 'string.Format(IFormatProvider, string, params object[])'. If the result of 'string.Format(IFormatProvider, string, params object[])' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+            </Message>
+            <Message Id="System.String.Format(System.String,System.Object,System.Object,System.Object)" TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305" Status="Active" Created="2013-06-17 23:09:55Z" FixCategory="NonBreaking">
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="x:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb" File="TokenHelper.cs" Line="766">Because the behavior of 'string.Format(string, object, object, object)' could vary based on the current user's locale settings, replace this call in 'TokenHelper.IssueToken(string, string, string, string, string, string, bool, IEnumerable&lt;JsonWebTokenClaim&gt;, bool)' with a call to 'string.Format(IFormatProvider, string, params object[])'. If the result of 'string.Format(IFormatProvider, string, params object[])' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+      <Namespace Name="DiscoverSharepointWeb.Pages">
+       <Types>
+        <Type Name="Default" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#Page_Load(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="ReviewCodeForXssVulnerabilities" Category="Microsoft.Security.Web" CheckId="CA3002" Status="Active" Created="2013-06-17 23:09:55Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Error" Path="x:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\Pages" File="Default.aspx.cs" Line="154">Potential cross-site scripting vulnerability was found where parameter 1 in call to System.Web.UI.WebControls.Literal::set_Text(this,System.String) is tainted by user-controlled data from System.Web.HttpRequest::get_QueryString(this). Presumed trace was:&#xD;&#xA;&#xD;&#xA;System.Web.HttpRequest::get_QueryString(this) at DiscoverSharepointWeb.Pages.Default::Page_Load(this,System.Object,System.EventArgs) in x:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\Pages\Default.aspx.cs: line 70&#xD;&#xA;System.Collections.Specialized.NameValueCollection::get_Item(this,System.String) at DiscoverSharepointWeb.Pages.Default::Page_Load(this,System.Object,System.EventArgs) in x:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\Pages\Default.aspx.cs: line 70&#xD;&#xA;System.Uri::.ctor(this,System.String) at DiscoverSharepointWeb.Pages.Default::Page_Load(this,System.Object,System.EventArgs) in x:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\Pages\Default.aspx.cs: line 70&#xD;&#xA;System.Uri::ToString(this) at DiscoverSharepointWeb.Pages.Default::Page_Load(this,System.Object,System.EventArgs) in x:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\Pages\Default.aspx.cs: line 84&#xD;&#xA;DiscoverSharepointWeb.TokenHelper::GetClientContextWithAccessToken(System.String,System.String) at DiscoverSharepointWeb.Pages.Default::Page_Load(this,System.Object,System.EventArgs) in x:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\Pages\Default.aspx.cs: line 84&#xD;&#xA;Microsoft.SharePoint.Client.ClientContext::get_Web(this) at DiscoverSharepointWeb.Pages.Default::Page_Load(this,System.Object,System.EventArgs) in x:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\Pages\Default.aspx.cs: line 100&#xD;&#xA;Microsoft.SharePoint.Client.Web::get_CurrentUser(this) at DiscoverSharepointWeb.Pages.Default::Page_Load(this,System.Object,System.EventArgs) in x:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\Pages\Default.aspx.cs: line 100&#xD;&#xA;Microsoft.SharePoint.Client.Principal::get_Title(this) at DiscoverSharepointWeb.Pages.Default::Page_Load(this,System.Object,System.EventArgs) in x:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\Pages\Default.aspx.cs: line 100&#xD;&#xA;System.Web.UI.WebControls.Literal::set_Text(this,System.String) at DiscoverSharepointWeb.Pages.Default::Page_Load(this,System.Object,System.EventArgs) in x:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\Pages\Default.aspx.cs: line 154</Issue>
+             <Issue Certainty="75" Level="Error" Path="x:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\Pages" File="Default.aspx.cs" Line="168">Potential cross-site scripting vulnerability was found where parameter 1 in call to System.Web.UI.WebControls.Literal::set_Text(this,System.String) is tainted by user-controlled data from System.Web.HttpRequest::get_QueryString(this). Presumed trace was:&#xD;&#xA;&#xD;&#xA;System.Web.HttpRequest::get_QueryString(this) at DiscoverSharepointWeb.Pages.Default::Page_Load(this,System.Object,System.EventArgs) in x:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\Pages\Default.aspx.cs: line 70&#xD;&#xA;System.Collections.Specialized.NameValueCollection::get_Item(this,System.String) at DiscoverSharepointWeb.Pages.Default::Page_Load(this,System.Object,System.EventArgs) in x:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\Pages\Default.aspx.cs: line 70&#xD;&#xA;System.Uri::.ctor(this,System.String) at DiscoverSharepointWeb.Pages.Default::Page_Load(this,System.Object,System.EventArgs) in x:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\Pages\Default.aspx.cs: line 70&#xD;&#xA;System.Uri::ToString(this) at DiscoverSharepointWeb.Pages.Default::Page_Load(this,System.Object,System.EventArgs) in x:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\Pages\Default.aspx.cs: line 84&#xD;&#xA;DiscoverSharepointWeb.TokenHelper::GetClientContextWithAccessToken(System.String,System.String) at DiscoverSharepointWeb.Pages.Default::Page_Load(this,System.Object,System.EventArgs) in x:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\Pages\Default.aspx.cs: line 84&#xD;&#xA;Microsoft.SharePoint.Client.ClientContext::get_Web(this) at DiscoverSharepointWeb.Pages.Default::Page_Load(this,System.Object,System.EventArgs) in x:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\Pages\Default.aspx.cs: line 98&#xD;&#xA;Microsoft.SharePoint.Client.Web::get_CurrentUser(this) at DiscoverSharepointWeb.Pages.Default::Page_Load(this,System.Object,System.EventArgs) in x:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\Pages\Default.aspx.cs: line 98&#xD;&#xA;Microsoft.SharePoint.Client.Principal::get_LoginName(this) at DiscoverSharepointWeb.Pages.Default::Page_Load(this,System.Object,System.EventArgs) in x:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\Pages\Default.aspx.cs: line 98&#xD;&#xA;System.Web.UI.WebControls.Literal::set_Text(this,System.String) at DiscoverSharepointWeb.Pages.Default::Page_Load(this,System.Object,System.EventArgs) in x:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\Pages\Default.aspx.cs: line 168</Issue>
+             <Issue Certainty="75" Level="Error" Path="x:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\Pages" File="Default.aspx.cs" Line="170">Potential cross-site scripting vulnerability was found where parameter 1 in call to System.Web.UI.WebControls.Literal::set_Text(this,System.String) is tainted by user-controlled data from System.Web.HttpRequest::get_QueryString(this). Presumed trace was:&#xD;&#xA;&#xD;&#xA;System.Web.HttpRequest::get_QueryString(this) at DiscoverSharepointWeb.Pages.Default::Page_Load(this,System.Object,System.EventArgs) in x:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\Pages\Default.aspx.cs: line 48&#xD;&#xA;System.Collections.Specialized.NameValueCollection::get_Item(this,System.String) at DiscoverSharepointWeb.Pages.Default::Page_Load(this,System.Object,System.EventArgs) in x:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\Pages\Default.aspx.cs: line 48&#xD;&#xA;System.Web.UI.WebControls.Literal::set_Text(this,System.String) at DiscoverSharepointWeb.Pages.Default::Page_Load(this,System.Object,System.EventArgs) in x:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\Pages\Default.aspx.cs: line 170</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="EncryptConnectionStrings" Category="Microsoft.Security.Web.Configuration" CheckId="CA3113">
+   <Name>EncryptConnectionStrings</Name>
+   <Description />
+   <Resolution Name="Default">Always encrypt database connection strings using an approved algorithm. Encrypt the connection string in unit DiscoverSharepointWeb file X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\obj\Release\TransformWebConfig\transformed\Web.config line 64 column 36</Resolution>
+   <Owner>RuleOwner</Owner>
+   <Url>http://go.microsoft.com/fwlink/?LinkID=263670&amp;clcid=0x409</Url>
+   <Email />
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="securitywebconfigurationrules.dll" Version="12.0.0.0" />
+  </Rule>
+  <Rule TypeName="PassSystemUriObjectsInsteadOfStrings" Category="Microsoft.Usage" CheckId="CA2234">
+   <Name>Pass System.Uri objects instead of strings</Name>
+   <Description>If there are two overloads one taking System.Uri and one taking System.String, library code should never call the string-based overload.</Description>
+   <Resolution Name="Default">Modify {0} to call {1} instead of {2}.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182360(VS.100).aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="usagerules.dll" Version="11.0.0.0" />
+  </Rule>
+  <Rule TypeName="ReviewCodeForXssVulnerabilities" Category="Microsoft.Security.Web" CheckId="CA3002">
+   <Name>ReviewCodeForXssVulnerabilities</Name>
+   <Description>Potential XSS vulnerability detected</Description>
+   <Resolution Name="Default">Potential cross-site scripting vulnerability was found where parameter 1 in call to System.Web.UI.WebControls.Literal::set_Text(this,System.String) is tainted by user-controlled data from System.Web.HttpRequest::get_QueryString(this). Presumed trace was:&#xD;&#xA;&#xD;&#xA;System.Web.HttpRequest::get_QueryString(this) at DiscoverSharepointWeb.Pages.Default::Page_Load(this,System.Object,System.EventArgs) in x:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\Pages\Default.aspx.cs: line 48&#xD;&#xA;System.Collections.Specialized.NameValueCollection::get_Item(this,System.String) at DiscoverSharepointWeb.Pages.Default::Page_Load(this,System.Object,System.EventArgs) in x:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\Pages\Default.aspx.cs: line 48&#xD;&#xA;System.Web.UI.WebControls.Literal::set_Text(this,System.String) at DiscoverSharepointWeb.Pages.Default::Page_Load(this,System.Object,System.EventArgs) in x:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\Pages\Default.aspx.cs: line 170</Resolution>
+   <Owner>RuleOwner</Owner>
+   <Url>http://go.microsoft.com/fwlink/?LinkID=263649&amp;clcid=0x409</Url>
+   <Email />
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="securitywebdataflowrules.dll" Version="12.0.0.0" />
+  </Rule>
+  <Rule TypeName="SpecifyCultureInfo" Category="Microsoft.Globalization" CheckId="CA1304">
+   <Name>Specify CultureInfo</Name>
+   <Description>If an overload exists that takes a CultureInfo argument, it should always be called in favor of an overload that does not. The CultureInfo type contains culture-specific information required for performing numeric and string operations, such as casing, formatting, and string comparisons. In scenarios where conversion and parsing behavior should never change between cultures, specify CultureInfo.InvariantCulture, otherwise, specify CultureInfo.CurrentCulture.</Description>
+   <Resolution Name="Default">Because the behavior of {0} could vary based on the current user's locale settings, replace this call in {1} with a call to {2}. If the result of {2} will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'CultureInfo' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182189(VS.100).aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="globalizationrules.dll" Version="11.0.0.0" />
+  </Rule>
+  <Rule TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305">
+   <Name>Specify IFormatProvider</Name>
+   <Description>If an overload exists that takes an IFormatProvider argument, it should always be called in favor of an overload that does not. Some methods in the runtime convert a value to or from a string representation and take a string parameter that contains one or more characters, called format specifiers, which indicate how the value is to be converted. If the meaning of the format specifier varies by culture, a formatting object supplies the actual characters used in the string representation. In scenarios where sorting and comparison behavior should never change between cultures, specify CultureInfo.InvariantCulture, otherwise, specify CultureInfo.CurrentCulture.</Description>
+   <Resolution Name="IFormatProviderAlternateString">Because the behavior of {0} could vary based on the current user's locale settings, replace this call in {1} with a call to {2}. If the result of {2} will be displayed to the user, specify {3} as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify {4}.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182190(VS.100).aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="globalizationrules.dll" Version="11.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">Category</String>
+  <String Key="Certainty">Certainty</String>
+  <String Key="CollapseAll">Collapse All</String>
+  <String Key="CheckId">Check Id</String>
+  <String Key="Error">Error</String>
+  <String Key="Errors">error(s)</String>
+  <String Key="ExpandAll">Expand All</String>
+  <String Key="Help">Help</String>
+  <String Key="Line">Line</String>
+  <String Key="Messages">message(s)</String>
+  <String Key="LocationNotStoredInPdb">[Location not stored in Pdb]</String>
+  <String Key="Project">Project</String>
+  <String Key="Resolution">Resolution</String>
+  <String Key="Rule">Rule</String>
+  <String Key="RuleFile">Rule File</String>
+  <String Key="RuleDescription">Rule Description</String>
+  <String Key="Source">Source</String>
+  <String Key="Status">Status</String>
+  <String Key="Target">Target</String>
+  <String Key="Warning">Warning</String>
+  <String Key="Warnings">warning(s)</String>
+  <String Key="ReportTitle">Code Analysis Report</String>
+ </Localized>
+</FxCopReport>

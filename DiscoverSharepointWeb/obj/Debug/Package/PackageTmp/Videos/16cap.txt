@@ -1,0 +1,123 @@
+WEBVTT
+
+0:00:03.398 --> 0:00:05.310
+Let's talk about PowerPivot.
+
+0:00:05.311 --> 0:00:07.649
+In a nutshell, PowerPivot lets you combine
+
+0:00:07.650 --> 0:00:09.878
+multiple sources of information to create
+
+0:00:09.879 --> 0:00:12.207
+a model for analyzing data.
+
+0:00:12.208 --> 0:00:13.874
+Let's start from the Marketing Campaign
+
+0:00:13.875 --> 0:00:15.737
+Effectiveness workbook.
+
+0:00:15.738 --> 0:00:18.333
+As Garth, a marketing rep, I want to create
+
+0:00:18.334 --> 0:00:21.266
+an interactive report on my campaigns.
+
+0:00:21.267 --> 0:00:23.159
+First let's look at the data connections,
+
+0:00:23.160 --> 0:00:24.629
+by clicking on the DATA tab and
+
+0:00:24.630 --> 0:00:27.741
+select Connections.
+
+0:00:27.742 --> 0:00:29.455
+These are the sources currently connected
+
+0:00:29.456 --> 0:00:31.209
+to this file.
+
+0:00:31.210 --> 0:00:32.834
+Okay, that's easy enough.
+
+0:00:32.835 --> 0:00:34.667
+But what if we need more?
+
+0:00:34.668 --> 0:00:36.233
+To look at the data sources that are
+
+0:00:36.234 --> 0:00:38.621
+supported by PowerPivot, just go to
+
+0:00:38.622 --> 0:00:42.347
+the PowerPivot tab and click Manage.
+
+0:00:43.764 --> 0:00:45.974
+This displays all the types of supported
+
+0:00:45.975 --> 0:00:47.025
+data sources.
+
+0:00:47.026 --> 0:00:48.886
+So now we see all the data types,
+
+0:00:48.887 --> 0:00:50.959
+but I'm still not sure
+which ones to use to build
+
+0:00:51.060 --> 0:00:53.670
+my analysis model.
+
+0:00:53.871 --> 0:00:56.199
+In one click, I can
+connect to the Microsoft
+
+0:00:56.200 --> 0:00:58.319
+recommendation service
+that suggests the most
+
+0:00:58.320 --> 0:01:00.810
+appropriate related data.
+
+0:01:00.811 --> 0:01:02.831
+With the data sources
+selected, we can switch
+
+0:01:02.832 --> 0:01:05.041
+over to the Diagram View to get a better
+
+0:01:05.042 --> 0:01:06.686
+look at them.
+
+0:01:11.948 --> 0:01:15.595
+And now it's time to add
+KPIs to my sales sheet.
+
+0:01:15.596 --> 0:01:18.122
+First, I insert a column in PowerPivot
+
+0:01:18.123 --> 0:01:21.223
+and assign a simple DAX formula.
+
+0:01:25.217 --> 0:01:27.248
+Then, I enable custom aggregation
+
+0:01:27.249 --> 0:01:30.280
+in the bottom row,
+
+0:01:30.281 --> 0:01:32.764
+and finally add a KPI by right-clicking
+
+0:01:32.850 --> 0:01:36.147
+and selecting Create KPI.
+
+0:01:36.239 --> 0:01:41.063
+Now that I have my data model ready,
+
+0:01:41.164 --> 0:01:43.333
+I can get started working on it analyzing
+
+0:01:43.334 --> 0:01:45.903
+the data using Excel.

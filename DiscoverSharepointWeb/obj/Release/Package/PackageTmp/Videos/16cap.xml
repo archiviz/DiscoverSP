@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/2006/10/ttaf1" xmlns:ttp="http://www.w3.org/2006/10/ttaf1#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/2006/10/ttaf1#style" xml:lang="en" xmlns:ttm="http://www.w3.org/2006/10/ttaf1#metadata">
+  <head>
+    <metadata>
+      <ttm:title>16cap</ttm:title>
+    </metadata>
+    <styling>
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+  </head>
+  <body tts:textAlign="center" style="s0">
+    <div>
+      <p begin="00:00:03.398" id="p0" end="00:00:05.310">Let's talk about PowerPivot.</p>
+      <p begin="00:00:05.311" id="p1" end="00:00:07.649">In a nutshell, PowerPivot lets you combine</p>
+      <p begin="00:00:07.650" id="p2" end="00:00:09.878">multiple sources of information to create</p>
+      <p begin="00:00:09.879" id="p3" end="00:00:12.207">a model for analyzing data.</p>
+      <p begin="00:00:12.208" id="p4" end="00:00:13.874">Let's start from the Marketing Campaign</p>
+      <p begin="00:00:13.875" id="p5" end="00:00:15.737">Effectiveness workbook.</p>
+      <p begin="00:00:15.738" id="p6" end="00:00:18.333">As Garth, a marketing rep, I want to create</p>
+      <p begin="00:00:18.334" id="p7" end="00:00:21.266">an interactive report on my campaigns.</p>
+      <p begin="00:00:21.267" id="p8" end="00:00:23.159">First let's look at the data connections,</p>
+      <p begin="00:00:23.160" id="p9" end="00:00:24.629">by clicking on the DATA tab and</p>
+      <p begin="00:00:24.630" id="p10" end="00:00:27.741">select Connections.</p>
+      <p begin="00:00:27.742" id="p11" end="00:00:29.455">These are the sources currently connected</p>
+      <p begin="00:00:29.456" id="p12" end="00:00:31.209">to this file.</p>
+      <p begin="00:00:31.210" id="p13" end="00:00:32.834">Okay, that's easy enough.</p>
+      <p begin="00:00:32.835" id="p14" end="00:00:34.667">But what if we need more?</p>
+      <p begin="00:00:34.668" id="p15" end="00:00:36.233">To look at the data sources that are</p>
+      <p begin="00:00:36.234" id="p16" end="00:00:38.621">supported by PowerPivot, just go to</p>
+      <p begin="00:00:38.622" id="p17" end="00:00:42.347">the PowerPivot tab and click Manage.</p>
+      <p begin="00:00:43.764" id="p18" end="00:00:45.974">This displays all the types of supported</p>
+      <p begin="00:00:45.975" id="p19" end="00:00:47.025">data sources.</p>
+      <p begin="00:00:47.026" id="p20" end="00:00:48.886">So now we see all the data types,</p>
+      <p begin="00:00:48.887" id="p21" end="00:00:50.959">but I'm still not sure<br />which ones to use to build</p>
+      <p begin="00:00:51.060" id="p22" end="00:00:53.670">my analysis model.</p>
+      <p begin="00:00:53.871" id="p23" end="00:00:56.199">In one click, I can<br />connect to the Microsoft</p>
+      <p begin="00:00:56.200" id="p24" end="00:00:58.319">recommendation service<br />that suggests the most</p>
+      <p begin="00:00:58.320" id="p25" end="00:01:00.810">appropriate related data.</p>
+      <p begin="00:01:00.811" id="p26" end="00:01:02.831">With the data sources<br />selected, we can switch</p>
+      <p begin="00:01:02.832" id="p27" end="00:01:05.041">over to the Diagram View to get a better</p>
+      <p begin="00:01:05.042" id="p28" end="00:01:06.686">look at them.</p>
+      <p begin="00:01:11.948" id="p29" end="00:01:15.595">And now it's time to add<br />KPIs to my sales sheet.</p>
+      <p begin="00:01:15.596" id="p30" end="00:01:18.122">First, I insert a column in PowerPivot</p>
+      <p begin="00:01:18.123" id="p31" end="00:01:21.223">and assign a simple DAX formula.</p>
+      <p begin="00:01:25.217" id="p32" end="00:01:27.248">Then, I enable custom aggregation</p>
+      <p begin="00:01:27.249" id="p33" end="00:01:30.280">in the bottom row,</p>
+      <p begin="00:01:30.281" id="p34" end="00:01:32.764">and finally add a KPI by right-clicking</p>
+      <p begin="00:01:32.850" id="p35" end="00:01:36.147">and selecting Create KPI.</p>
+      <p begin="00:01:36.239" id="p36" end="00:01:41.063">Now that I have my data model ready,</p>
+      <p begin="00:01:41.164" id="p37" end="00:01:43.333">I can get started working on it analyzing</p>
+      <p begin="00:01:43.334" id="p38" end="00:01:45.903">the data using Excel.</p>
+    </div>
+  </body>
+</tt>

@@ -1,0 +1,63 @@
+WEBVTT
+
+0:00:06.841 --> 0:00:08.619
+Here's my worksheet that contains some
+
+0:00:08.620 --> 0:00:10.594
+customer data, and I want to parse out
+
+0:00:10.595 --> 0:00:14.645
+the address column into
+countries and cities.
+
+0:00:18.398 --> 0:00:21.282
+As you can see, with the
+new Flash Fill feature,
+
+0:00:21.283 --> 0:00:23.478
+Excel can quickly find the right patterns
+
+0:00:23.479 --> 0:00:26.300
+and fill in the remaining cells.
+
+0:00:30.123 --> 0:00:32.376
+It's also possible to correct and accept
+
+0:00:32.377 --> 0:00:34.833
+the changes as needed.
+
+0:00:39.627 --> 0:00:41.747
+The new Quick Analysis feature makes it
+
+0:00:41.748 --> 0:00:44.406
+really easy to instantly identify duplicate
+
+0:00:44.407 --> 0:00:46.856
+or unique values, or to add recommended
+
+0:00:46.857 --> 0:00:49.472
+charts according to my data.
+
+0:00:55.609 --> 0:00:58.181
+Now, let's move on to the CSAT Analysis
+
+0:00:58.182 --> 0:01:01.393
+tab to see how easy it is to explore data.
+
+0:01:01.394 --> 0:01:03.490
+We can use some slicers to quickly filter
+
+0:01:03.491 --> 0:01:06.437
+the data by customer type,
+
+0:01:06.438 --> 0:01:09.295
+campaigns,
+
+0:01:09.296 --> 0:01:12.300
+or even a period of time.
+
+0:01:17.165 --> 0:01:18.997
+Here we can also use Quick Explore
+
+0:01:18.998 --> 0:01:22.133
+to drill down a bit more.

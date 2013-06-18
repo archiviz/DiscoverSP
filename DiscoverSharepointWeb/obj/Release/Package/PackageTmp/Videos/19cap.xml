@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/2006/10/ttaf1" xmlns:ttp="http://www.w3.org/2006/10/ttaf1#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/2006/10/ttaf1#style" xml:lang="en" xmlns:ttm="http://www.w3.org/2006/10/ttaf1#metadata">
+  <head>
+    <metadata>
+      <ttm:title>19cap</ttm:title>
+    </metadata>
+    <styling>
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+  </head>
+  <body tts:textAlign="center" style="s0">
+    <div>
+      <p begin="00:00:06.841" id="p0" end="00:00:08.619">Here's my worksheet that contains some</p>
+      <p begin="00:00:08.620" id="p1" end="00:00:10.594">customer data, and I want to parse out</p>
+      <p begin="00:00:10.595" id="p2" end="00:00:14.645">the address column into<br />countries and cities.</p>
+      <p begin="00:00:18.398" id="p3" end="00:00:21.282">As you can see, with the<br />new Flash Fill feature,</p>
+      <p begin="00:00:21.283" id="p4" end="00:00:23.478">Excel can quickly find the right patterns</p>
+      <p begin="00:00:23.479" id="p5" end="00:00:26.300">and fill in the remaining cells.</p>
+      <p begin="00:00:30.123" id="p6" end="00:00:32.376">It's also possible to correct and accept</p>
+      <p begin="00:00:32.377" id="p7" end="00:00:34.833">the changes as needed.</p>
+      <p begin="00:00:39.627" id="p8" end="00:00:41.747">The new Quick Analysis feature makes it</p>
+      <p begin="00:00:41.748" id="p9" end="00:00:44.406">really easy to instantly identify duplicate</p>
+      <p begin="00:00:44.407" id="p10" end="00:00:46.856">or unique values, or to add recommended</p>
+      <p begin="00:00:46.857" id="p11" end="00:00:49.472">charts according to my data.</p>
+      <p begin="00:00:55.609" id="p12" end="00:00:58.181">Now, let's move on to the CSAT Analysis</p>
+      <p begin="00:00:58.182" id="p13" end="00:01:01.393">tab to see how easy it is to explore data.</p>
+      <p begin="00:01:01.394" id="p14" end="00:01:03.490">We can use some slicers to quickly filter</p>
+      <p begin="00:01:03.491" id="p15" end="00:01:06.437">the data by customer type,</p>
+      <p begin="00:01:06.438" id="p16" end="00:01:09.295">campaigns,</p>
+      <p begin="00:01:09.296" id="p17" end="00:01:12.300">or even a period of time.</p>
+      <p begin="00:01:17.165" id="p18" end="00:01:18.997">Here we can also use Quick Explore</p>
+      <p begin="00:01:18.998" id="p19" end="00:01:22.133">to drill down a bit more.</p>
+    </div>
+  </body>
+</tt>

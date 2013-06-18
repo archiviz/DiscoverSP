@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/2006/10/ttaf1" xmlns:ttp="http://www.w3.org/2006/10/ttaf1#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/2006/10/ttaf1#style" xml:lang="en" xmlns:ttm="http://www.w3.org/2006/10/ttaf1#metadata">
+  <head>
+    <metadata>
+      <ttm:title>8cap</ttm:title>
+    </metadata>
+    <styling>
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+  </head>
+  <body tts:textAlign="center" style="s0">
+    <div>
+      <p begin="00:00:05.469" id="p0" end="00:00:08.301">As task lists grow in size and complexity</p>
+      <p begin="00:00:08.302" id="p1" end="00:00:10.036">into full-fledged projects,</p>
+      <p begin="00:00:10.037" id="p2" end="00:00:11.718">you can save yourself from overload</p>
+      <p begin="00:00:11.719" id="p3" end="00:00:15.059">by launching Project<br />Professional from your site.</p>
+      <p begin="00:00:15.060" id="p4" end="00:00:18.489">As Garth, I'm now leading<br />a marketing campaign.</p>
+      <p begin="00:00:18.490" id="p5" end="00:00:21.537">I want to use Project as<br />my main management tool</p>
+      <p begin="00:00:21.538" id="p6" end="00:00:24.251">and SharePoint to keep<br />everyone on the same page.</p>
+      <p begin="00:00:24.252" id="p7" end="00:00:26.266">So I set up a sync.</p>
+      <p begin="00:00:26.267" id="p8" end="00:00:28.403">From the Marketing Campaign project site,</p>
+      <p begin="00:00:28.404" id="p9" end="00:00:32.604">I click Tasks, and then click List</p>
+      <p begin="00:00:32.605" id="p10" end="00:00:34.306">on the menu bar.</p>
+      <p begin="00:00:34.307" id="p11" end="00:00:37.777">From there, I click Open with Project.</p>
+      <p begin="00:00:37.787" id="p12" end="00:00:40.465">Now I can manage task dependencies,</p>
+      <p begin="00:00:40.466" id="p13" end="00:00:42.966">balance resource allocations,</p>
+      <p begin="00:00:42.967" id="p14" end="00:00:47.500">and generate rich out-of-the-box<br />reports with ease.</p>
+      <p begin="00:00:51.610" id="p15" end="00:00:53.500">When I'm finished, I can sync everything</p>
+      <p begin="00:00:53.501" id="p16" end="00:00:55.638">back to my site, where<br />the team can continue</p>
+      <p begin="00:00:55.639" id="p17" end="00:00:58.766">to work together and stay in sync.</p>
+    </div>
+  </body>
+</tt>

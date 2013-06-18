@@ -1,0 +1,174 @@
+WEBVTT
+
+0:00:05.480 --> 0:00:07.523
+First, let's look at
+how you can easily
+
+0:00:07.524 --> 0:00:09.912
+store, sync, and share your content
+
+0:00:09.913 --> 0:00:13.560
+in just a few clicks 
+using SkyDrive Pro.
+
+0:00:13.561 --> 0:00:16.630
+To upload a document,
+drag it from your
+
+0:00:16.631 --> 0:00:19.700
+desktop and drop it in
+the document library.
+
+0:00:25.150 --> 0:00:28.279
+The green icon shows you
+that it's new content.
+
+0:00:28.280 --> 0:00:30.243
+By default, all content is private,
+
+0:00:30.244 --> 0:00:32.027
+so you don't have to worry.
+
+0:00:32.028 --> 0:00:34.153
+Activate the Hover Panel
+to quickly perform
+
+0:00:34.154 --> 0:00:38.379
+frequent tasks, like get a preview,
+
+0:00:38.380 --> 0:00:44.016
+download, follow, see who has access,
+
+0:00:44.017 --> 0:00:48.497
+share, and check-in/check-out.
+
+0:00:48.498 --> 0:00:51.254
+Alternatively, you can
+look at the Share icon.
+
+0:00:51.255 --> 0:00:53.273
+The locker means the file is private,
+
+0:00:53.274 --> 0:00:56.313
+while the People icon means
+that it's being shared.
+
+0:00:56.314 --> 0:00:58.208
+Now, let's say I'm Garth and I need
+
+0:00:58.209 --> 0:01:00.141
+to share this document with Allie.
+
+0:01:00.142 --> 0:01:02.130
+We can do it from the
+Hover Panel, from the
+
+0:01:02.131 --> 0:01:05.838
+Office Backstage, or just
+by clicking the Share icon.
+
+0:01:05.839 --> 0:01:13.435
+I click Invite, select permissions,
+and type Allie's name.
+
+0:01:13.436 --> 0:01:15.578
+You can also invite
+people from outside
+
+0:01:15.579 --> 0:01:17.750
+your organization using, for example,
+
+0:01:17.751 --> 0:01:20.036
+their Microsoft Account,
+or by sending them
+
+0:01:20.037 --> 0:01:22.289
+a Guest Link to view and edit the file
+
+0:01:22.290 --> 0:01:24.731
+using the Office Web App.
+
+0:01:24.732 --> 0:01:27.063
+That's it. Allie then gets an email
+
+0:01:27.064 --> 0:01:30.143
+letting her know that I
+shared the document with her.
+
+0:01:34.169 --> 0:01:36.710
+Alternatively, you can
+just drag and drop a file
+
+0:01:36.711 --> 0:01:39.162
+into the Shared with
+everyone folder to share
+
+0:01:39.163 --> 0:01:42.366
+your documents across
+your organization.
+
+0:01:45.339 --> 0:01:48.075
+As a best practice for when
+you store and share docs,
+
+0:01:48.076 --> 0:01:50.009
+we recommend that you
+activate versioning,
+
+0:01:50.010 --> 0:01:53.334
+so you can always keep
+track of changes.
+
+0:02:01.177 --> 0:02:03.221
+You can also sync
+documents uploaded to
+
+0:02:03.222 --> 0:02:05.655
+SkyDrive Pro on your local computer.
+
+0:02:05.656 --> 0:02:08.495
+This way, you always have
+access to your docs,
+
+0:02:08.496 --> 0:02:09.896
+even when offline.
+
+0:02:09.897 --> 0:02:12.727
+You can keep working on
+content while on-the-go,
+
+0:02:12.728 --> 0:02:14.457
+with changes automatically uploaded
+
+0:02:14.458 --> 0:02:16.866
+when you're back online.
+
+0:02:22.580 --> 0:02:24.394
+You can also stay connected via apps
+
+0:02:24.395 --> 0:02:26.399
+and browser support across multiple
+
+0:02:26.400 --> 0:02:28.842
+platforms and devices.
+
+0:02:28.843 --> 0:02:30.551
+Just open your browser and simply
+
+0:02:30.552 --> 0:02:33.233
+use the Office Web App.
+
+0:02:37.951 --> 0:02:40.123
+Keep your content in
+sync across devices
+
+0:02:40.124 --> 0:02:43.059
+with out-of-the-box integration
+on Windows Phone 8,
+
+0:02:43.060 --> 0:02:46.216
+and SkyDrive Pro apps coming
+soon on more devices,
+
+0:02:46.217 --> 0:02:50.000
+like Surface RT and iPad.

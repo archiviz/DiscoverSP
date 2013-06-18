@@ -1,0 +1,61 @@
+WEBVTT
+
+0:00:05.469 --> 0:00:08.301
+As task lists grow in size and complexity
+
+0:00:08.302 --> 0:00:10.036
+into full-fledged projects,
+
+0:00:10.037 --> 0:00:11.718
+you can save yourself from overload
+
+0:00:11.719 --> 0:00:15.059
+by launching Project
+Professional from your site.
+
+0:00:15.060 --> 0:00:18.489
+As Garth, I'm now leading
+a marketing campaign.
+
+0:00:18.490 --> 0:00:21.537
+I want to use Project as
+my main management tool
+
+0:00:21.538 --> 0:00:24.251
+and SharePoint to keep
+everyone on the same page.
+
+0:00:24.252 --> 0:00:26.266
+So I set up a sync.
+
+0:00:26.267 --> 0:00:28.403
+From the Marketing Campaign project site,
+
+0:00:28.404 --> 0:00:32.604
+I click Tasks, and then click List
+
+0:00:32.605 --> 0:00:34.306
+on the menu bar.
+
+0:00:34.307 --> 0:00:37.777
+From there, I click Open with Project.
+
+0:00:37.787 --> 0:00:40.465
+Now I can manage task dependencies,
+
+0:00:40.466 --> 0:00:42.966
+balance resource allocations,
+
+0:00:42.967 --> 0:00:47.500
+and generate rich out-of-the-box
+reports with ease.
+
+0:00:51.610 --> 0:00:53.500
+When I'm finished, I can sync everything
+
+0:00:53.501 --> 0:00:55.638
+back to my site, where
+the team can continue
+
+0:00:55.639 --> 0:00:58.766
+to work together and stay in sync.

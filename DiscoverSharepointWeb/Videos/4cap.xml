@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/2006/10/ttaf1" xmlns:ttp="http://www.w3.org/2006/10/ttaf1#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/2006/10/ttaf1#style" xml:lang="en" xmlns:ttm="http://www.w3.org/2006/10/ttaf1#metadata">
+  <head>
+    <metadata>
+      <ttm:title>4cap</ttm:title>
+    </metadata>
+    <styling>
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+  </head>
+  <body tts:textAlign="center" style="s0">
+    <div>
+      <p begin="00:00:02.591" id="p0" end="00:00:04.044">Now let me show you how to quickly</p>
+      <p begin="00:00:04.045" id="p1" end="00:00:06.359">set up a site and keep<br />everything you need -</p>
+      <p begin="00:00:06.360" id="p2" end="00:00:11.075">notes, mailboxes, documents,<br />schedules, and newsfeeds -</p>
+      <p begin="00:00:11.076" id="p3" end="00:00:13.633">all shared in one place,<br />helping to organize</p>
+      <p begin="00:00:13.634" id="p4" end="00:00:15.959">and keep your team in sync.</p>
+      <p begin="00:00:15.960" id="p5" end="00:00:17.986">The first step is to create a new site</p>
+      <p begin="00:00:17.987" id="p6" end="00:00:22.177">by clicking here , and giving it a name.</p>
+      <p begin="00:00:22.178" id="p7" end="00:00:24.991">Then click Create, and, just like that,</p>
+      <p begin="00:00:24.992" id="p8" end="00:00:27.037">your site is up and running.</p>
+      <p begin="00:00:27.038" id="p9" end="00:00:30.299">Now let's take a look at<br />the Getting Started tiles.</p>
+      <p begin="00:00:30.300" id="p10" end="00:00:31.889">With these, you can change the look</p>
+      <p begin="00:00:31.890" id="p11" end="00:00:36.006">and feel of your site and add<br />all kinds of functionality.</p>
+      <p begin="00:00:36.007" id="p12" end="00:00:38.525">By clicking on What Is Your Style,</p>
+      <p begin="00:00:38.526" id="p13" end="00:00:42.561">you can choose a theme<br />from a list of templates.</p>
+      <p begin="00:00:42.562" id="p14" end="00:00:45.657">I like this one, so I select it</p>
+      <p begin="00:00:47.569" id="p15" end="00:00:49.340">and then drag and drop an image</p>
+      <p begin="00:00:49.341" id="p16" end="00:00:52.200">for the site background.</p>
+      <p begin="00:00:55.224" id="p17" end="00:00:58.079">From the Your Site Your Brand tile,</p>
+      <p begin="00:00:58.080" id="p18" end="00:01:00.772">you can also add a logo<br />and update the title</p>
+      <p begin="00:01:00.773" id="p19" end="00:01:05.311">and description of the site, as required.</p>
+      <p begin="00:00:35.312" id="p20" end="00:01:10.916">Now let's make it a true<br />collaborative space for a team.</p>
+      <p begin="00:01:10.917" id="p21" end="00:01:12.698">You can add and assign tasks</p>
+      <p begin="00:01:12.699" id="p22" end="00:01:17.652">and use a calendar to<br />organize upcoming meetings.</p>
+      <p begin="00:01:17.653" id="p23" end="00:01:19.223">We'll show you more about tasks</p>
+      <p begin="00:01:19.224" id="p24" end="00:01:20.850">and calendars in another video,</p>
+      <p begin="00:01:20.851" id="p25" end="00:01:24.664">where we'll drill down a bit deeper.</p>
+      <p begin="00:01:24.665" id="p26" end="00:01:27.748">By clicking the Share Your Site tile,</p>
+      <p begin="00:01:27.749" id="p27" end="00:01:31.333">you can invite team members to join.</p>
+      <p begin="00:01:34.319" id="p28" end="00:01:36.947">With Office 365, you can also invite</p>
+      <p begin="00:01:36.948" id="p29" end="00:01:39.567">people from outside your organization,</p>
+      <p begin="00:01:39.568" id="p30" end="00:01:45.764">as long as your IT admin has<br />activated external sharing.</p>
+      <p begin="00:01:45.765" id="p31" end="00:01:47.192">Don't forget to follow the site</p>
+      <p begin="00:01:47.193" id="p32" end="00:01:49.770">to add it to your favorite lists!</p>
+      <p begin="00:01:47.771" id="p33" end="00:01:51.804">You can also click Sync to synchronize</p>
+      <p begin="00:01:51.805" id="p34" end="00:01:53.854">your files locally so that you always</p>
+      <p begin="00:01:53.855" id="p35" end="00:01:58.344">have access to them, even when offline.</p>
+      <p begin="00:01:58.345" id="p36" end="00:02:01.863">By clicking the Keep Email In Context tile,</p>
+      <p begin="00:02:01.864" id="p37" end="00:02:03.796">you can even set up a site mailbox</p>
+      <p begin="00:02:03.797" id="p38" end="00:02:07.447">that everyone on the team can access.</p>
+      <p begin="00:02:07.448" id="p39" end="00:02:10.127">And by default, each site<br />comes with a newsfeed</p>
+      <p begin="00:02:10.128" id="p40" end="00:02:13.400">to keep everyone on the same page,</p>
+      <p begin="00:02:15.884" id="p41" end="00:02:18.155">as well as a document<br />library to make it easy</p>
+      <p begin="00:02:18.156" id="p42" end="00:02:23.133">easy to store and organize<br />your content in one place.</p>
+      <p begin="00:02:28.545" id="p43" end="00:02:30.933">As you can see, it only takes a few clicks</p>
+      <p begin="00:02:30.934" id="p44" end="00:02:32.115">to set up a site.</p>
+      <p begin="00:02:32.116" id="p45" end="00:02:34.186">Then you can easily customize your site</p>
+      <p begin="00:02:34.187" id="p46" end="00:02:36.562">to fit your needs even better.</p>
+      <p begin="00:02:36.563" id="p47" end="00:02:38.312">Just browse through the available apps</p>
+      <p begin="00:02:38.313" id="p48" end="00:02:40.166">and add more,</p>
+      <p begin="00:02:43.055" id="p49" end="00:02:45.633">like a Picture Library.</p>
+      <p begin="00:02:50.756" id="p50" end="00:02:54.524">You can even add custom<br />apps from your organization</p>
+      <p begin="00:02:54.525" id="p51" end="00:02:58.066">or apps from the Office Store.</p>
+      <p begin="00:03:02.067" id="p52" end="00:03:03.683">Once you're finished, you can hide</p>
+      <p begin="00:03:03.684" id="p53" end="00:03:07.423">the Getting Started tiles from your site.</p>
+      <p begin="00:03:07.424" id="p54" end="00:03:09.409">At any time, you can reactivate them</p>
+      <p begin="00:03:09.410" id="p55" end="00:03:14.159">by clicking here and going<br />to Getting Started.</p>
+    </div>
+  </body>
+</tt>

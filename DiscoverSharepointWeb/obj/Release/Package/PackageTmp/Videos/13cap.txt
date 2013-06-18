@@ -1,0 +1,121 @@
+WEBVTT
+
+0:00:05.435 --> 0:00:07.018
+We are all used to searching for everything
+
+0:00:07.019 --> 0:00:08.397
+we need on the internet.
+
+0:00:08.398 --> 0:00:10.645
+But, wouldn't it be great
+to be able to discover
+
+0:00:10.646 --> 0:00:13.232
+information spread across your organization
+
+0:00:13.233 --> 0:00:15.578
+just as easily as it is on the web?
+
+0:00:15.579 --> 0:00:18.076
+With SharePoint you can!
+
+0:00:18.077 --> 0:00:21.671
+Let's test it out and see what it can do.
+
+0:00:21.672 --> 0:00:25.542
+Let's try Contoso Electronics.
+
+0:00:27.879 --> 0:00:30.417
+As you can see, we get back
+many different results,
+
+0:00:30.418 --> 0:00:33.710
+including presentations,
+spreadsheets, documents,
+
+0:00:33.711 --> 0:00:37.932
+conversations, and even images and videos.
+
+0:00:37.933 --> 0:00:39.724
+Here you can see different views turn up
+
+0:00:39.725 --> 0:00:41.017
+different results.
+
+0:00:41.018 --> 0:00:44.083
+Some return everything, or just people,
+
+0:00:44.084 --> 0:00:47.200
+conversations, or videos.
+
+0:00:47.201 --> 0:00:49.562
+Refiners can help you dig even deeper,
+
+0:00:49.563 --> 0:00:53.709
+letting you filter results by type, author,
+
+0:00:53.710 --> 0:00:56.323
+and other criteria.
+
+0:00:56.324 --> 0:00:58.233
+This one lets you get results based on
+
+0:00:58.234 --> 0:01:01.777
+the last date something was modified.
+
+0:01:01.778 --> 0:01:04.944
+We'll look at People
+Search in another video.
+
+0:01:04.945 --> 0:01:06.979
+Right now, I want to find a document
+
+0:01:06.980 --> 0:01:09.116
+created by a colleague.
+
+0:01:09.117 --> 0:01:14.042
+So I type in her name, click on it,
+
+0:01:14.043 --> 0:01:16.555
+and then get a results page
+with all the documents
+
+0:01:16.556 --> 0:01:18.918
+she's worked on.
+
+0:01:18.919 --> 0:01:21.357
+Do you notice how the refiners change?
+
+0:01:21.358 --> 0:01:23.367
+That's because they're dynamically created
+
+0:01:23.368 --> 0:01:25.403
+at search time.
+
+0:01:25.404 --> 0:01:26.886
+Notice that when I hover over one
+
+0:01:26.887 --> 0:01:28.796
+of the results, we get a little preview
+
+0:01:28.797 --> 0:01:31.259
+of it with this Hover Panel.
+
+0:01:31.260 --> 0:01:34.250
+From here, we can edit the document,
+
+0:01:34.251 --> 0:01:38.598
+follow it for updates,
+share it with someone,
+
+0:01:38.599 --> 0:01:42.142
+or open the library where it's stored.
+
+0:01:42.143 --> 0:01:45.585
+Now take a look at these quick links.
+
+0:01:47.294 --> 0:01:49.154
+We can click on them to get directly to
+
+0:01:49.155 --> 0:01:52.698
+specific sections inside of a document.

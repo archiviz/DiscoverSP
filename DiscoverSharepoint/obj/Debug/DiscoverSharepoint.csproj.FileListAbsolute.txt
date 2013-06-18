@@ -1,0 +1,4 @@
+X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepoint\bin\Debug\DiscoverSharepoint.pdb
+X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepoint\obj\Debug\DiscoverSharepoint.dll
+X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepoint\obj\Debug\DiscoverSharepoint.pdb
+X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepoint\bin\Debug\Videos\1cap.txt
