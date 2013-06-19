@@ -395,65 +395,65 @@ menuhtml += '<li class="fl"><a rel="1" class="flink f-1 m" id="store" href="#sto
         }
 		
 		if (jQuery.inArray("2", hiddenarr) < 0) {
-menuhtml += '<li class="fl"><a rel="2" class="flink f-2 m" id="store" href="#store">Keep Everyone On The Same Page</a></li>';
+menuhtml += '<li class="fl"><a rel="2" class="flink f-2 m" id="store" href="#store">Keep everyone on the same page</a></li>';
         }
 		
 		if (jQuery.inArray("3", hiddenarr) < 0) {
-menuhtml += '<li class="fl"><a rel="3" class="flink f-3 m" id="store" href="#store">Stay On Track And Deliver On Time</a></li>';
+menuhtml += '<li class="fl"><a rel="3" class="flink f-3 m" id="store" href="#store">Stay on track and deliver on time</a></li>';
         }
 		
 		if (jQuery.inArray("4", hiddenarr) < 0) {
-menuhtml += '<li class="fl"><a rel="4" class="flink f-4 m" id="store" href="#store">Find the Right People</a></li>';
+menuhtml += '<li class="fl"><a rel="4" class="flink f-4 m" id="store" href="#store">Find the right people</a></li>';
         }
 		
 		if (jQuery.inArray("5", hiddenarr) < 0) {
-menuhtml += '<li class="fl"><a rel="5" class="flink f-5 m" id="store" href="#store">Find What You Need</a></li>';
+menuhtml += '<li class="fl"><a rel="5" class="flink f-5 m" id="store" href="#store">Find what you need</a></li>';
         }
 		
 		if (jQuery.inArray("6", hiddenarr) < 0) {
-menuhtml += '<li class="fl"><a rel="6" class="flink f-6 m" id="store" href="#store">Make Informed Decisions</a></li>';
+menuhtml += '<li class="fl"><a rel="6" class="flink f-6 m" id="store" href="#store">Make informed decisions</a></li>';
         }
 
 		
     } else if (sec === 7) {
 	if (jQuery.inArray("7", hiddenarr) < 0) {
-menuhtml += '<li class="fl"><a rel="7" class="flink f-7 m" id="store" href="#store">Onboard New Employees</a></li>';
+menuhtml += '<li class="fl"><a rel="7" class="flink f-7 m" id="store" href="#store">Onboard new employees</a></li>';
         }
 		
 		if (jQuery.inArray("8", hiddenarr) < 0) {
-menuhtml += '<li class="fl"><a rel="8" class="flink f-8 m" id="store" href="#store">Keep Everyone Informed</a></li>';
+menuhtml += '<li class="fl"><a rel="8" class="flink f-8 m" id="store" href="#store">Keep everyone informed</a></li>';
         }
     } else if (sec === 9) {
 	if (jQuery.inArray("9", hiddenarr) < 0) {
-menuhtml += '<li class="fl"><a rel="9" class="flink f-9 m" id="store" href="#store">Share Your Knowledge</a></li>';
+menuhtml += '<li class="fl"><a rel="9" class="flink f-9 m" id="store" href="#store">Share your knowledge</a></li>';
         }
 		if (jQuery.inArray("10", hiddenarr) < 0) {
-menuhtml += '<li class="fl"><a rel="10" class="flink f-10 m" id="store" href="#store">Boost Business Processes</a></li>';
+menuhtml += '<li class="fl"><a rel="10" class="flink f-10 m" id="store" href="#store">Boost business processes</a></li>';
         }
     } else if (sec === 11) {
 	if (jQuery.inArray("11", hiddenarr) < 0) {
-menuhtml += '<li class="fl"><a rel="11" class="flink f-11 m" id="store" href="#store">Make Your Customers And Partners Happy</a></li>';
+menuhtml += '<li class="fl"><a rel="11" class="flink f-11 m" id="store" href="#store">Make your customers and partners happy</a></li>';
         }
 		if (jQuery.inArray("12", hiddenarr) < 0) {
-menuhtml += '<li class="fl"><a rel="12" class="flink f-12 m" id="store" href="#store">Engage Your Audience Online</a></li>';
+menuhtml += '<li class="fl"><a rel="12" class="flink f-12 m" id="store" href="#store">Engage your audience online</a></li>';
         }
 		if (jQuery.inArray("13", hiddenarr) < 0) {
-menuhtml += '<li class="fl"><a rel="13" class="flink f-13 m" id="store" href="#store">Align Your Teams</a></li>';
+menuhtml += '<li class="fl"><a rel="13" class="flink f-13 m" id="store" href="#store">Align your teams</a></li>';
         }
     } else if (sec === 14) {
 	if (jQuery.inArray("14", hiddenarr) < 0) {
-menuhtml += '<li class="fl"><a rel="14" class="flink f-14 m" id="store" href="#store">Crunch The Numbers Together</a></li>';
+menuhtml += '<li class="fl"><a rel="14" class="flink f-14 m" id="store" href="#store">Crunch the numbers together</a></li>';
         }
     } else if (sec === 15) {
 	if (jQuery.inArray("15", hiddenarr) < 0) {
-menuhtml += '<li class="fl"><a rel="15" class="flink f-15 m" id="store" href="#store">Help Meet Compliance Needs</a></li>';
+menuhtml += '<li class="fl"><a rel="15" class="flink f-15 m" id="store" href="#store">Help meet compliance needs</a></li>';
         }
     } else if (sec === 16) {
 	if (jQuery.inArray("16", hiddenarr) < 0) {
-menuhtml += '<li class="fl"><a rel="16" class="flink f-16 m" id="store" href="#store">Provide The Right Support</a></li>';
+menuhtml += '<li class="fl"><a rel="16" class="flink f-16 m" id="store" href="#store">Provide the right support</a></li>';
 }
 if (jQuery.inArray("17", hiddenarr) < 0) {
-menuhtml += '<li class="fl"><a rel="17" class="flink f-17 m" id="store" href="#store">Empower People And Stay In Control</a></li>';
+menuhtml += '<li class="fl"><a rel="17" class="flink f-17 m" id="store" href="#store">Empower people and stay in control</a></li>';
 }
     }
 	menuhtml += "</ul>";
