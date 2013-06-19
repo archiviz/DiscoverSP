@@ -44,7 +44,7 @@
 		    //load the SharePoint resources
 		    $(document).ready(function () {
 
-		        $("#videomain").prepend('<source src="https://mediasvc08rg9b3g5vnth.blob.core.windows.net/asset-67ecbebb-b881-455b-8344-8d668c743b48/SharePoint%20Vision%20Video%20v9_8000k.mp4?sv=2012-02-12&st=2013-06-14T00%3A44%3A49Z&se=2015-06-14T00%3A44%3A49Z&sr=c&si=b56b3190-2002-4efe-a9ec-12eaaf42d091&sig=oNXlDQwZnIpo4bKYi3fuSo4Bxy8P%2BVOtWoqQ3nzBUEI%3D" type="video/mp4"/><track src="../Videos/capmain.'+capext+'" label="English" kind="subtitles" srclang="en" />');
+		        $("#videomain").prepend('<source src="https://mediasvc08rg9b3g5vnth.blob.core.windows.net/asset-64114c7b-4aac-49e7-8759-dc99581ca9d4/SharePoint%20Vision%20Video%20v9_8000k.mp4?sv=2012-02-12&st=2013-06-19T00%3A08%3A47Z&se=2015-06-19T00%3A08%3A47Z&sr=c&si=b7947981-aed0-416a-b2e6-3177b19de5b1&sig=6VDF0MHQm%2FO3x0v84fpFsgd4scrxHC42nui048OtbOQ%3D" type="video/mp4"/><track src="../Videos/capmain.'+capext+'" label="English" kind="subtitles" srclang="en" />');
 
 		        if (insp) {
 		            var scriptbase;
