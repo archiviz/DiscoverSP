@@ -1146,12 +1146,12 @@
 <table style="width:1240px;"><tr><td style="width:200px;">
 <h3>Site Analytics</h3>
 <select class="" id="analytics_type">
-  <option value="0">App installs</option>
-  <option value="1">App launches</option>
-  <option value="2">Page views</option>
-  <option value="3">Video views</option>
-   <option value="4">Video downloads</option>
-   <option value="5">Guide downloads</option>
+  <option value="0">App Installs</option>
+  <option value="1">App Launches</option>
+  <option value="2">Page Views</option>
+  <option value="3">Video Views</option>
+   <option value="4">Video Downloads</option>
+   <option value="5">Guide Downloads</option>
 </select>&nbsp;&nbsp;&nbsp;&nbsp;
 <select rel="exampleSimple" class="analytics_months" id="analytics_months">
   <option value="0">All Months</option>
