@@ -2,3 +2,8 @@ X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepoint\bin\D
 X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepoint\obj\Debug\DiscoverSharepoint.dll
 X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepoint\obj\Debug\DiscoverSharepoint.pdb
 X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepoint\bin\Debug\Videos\1cap.txt
+C:\Users\csimeone\Documents\GitHub\DiscoverSP\DiscoverSharepoint\bin\Debug\Videos\1cap.txt
+C:\Users\csimeone\Documents\GitHub\DiscoverSP\DiscoverSharepoint\bin\Debug\DiscoverSharepoint.pdb
+C:\Users\csimeone\Documents\GitHub\DiscoverSP\DiscoverSharepoint\obj\Debug\DiscoverSharepoint.dll
+C:\Users\csimeone\Documents\GitHub\DiscoverSP\DiscoverSharepoint\obj\Debug\DiscoverSharepoint.pdb
+C:\Users\csimeone\Documents\GitHub\DiscoverSP\DiscoverSharepoint\obj\Debug\DiscoverSharepoint.csprojResolveAssemblyReference.cache

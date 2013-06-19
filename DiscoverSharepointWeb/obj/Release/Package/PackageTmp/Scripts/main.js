@@ -10,11 +10,12 @@
 
 /// <dictionary>activeid,addsm,addwidth,animoff,arr,arrayspot,baseurl,bbtn,bgc,bigdesc,ckname,cmid,columncontents,columnstretch,cright,currentpage,currentpos,deeplink,Desc,elem,exdate,fav,favhtml,favmainfnt,favmainl,finid,getimageid,hdt,heig,hiddenarr,htmlc,icgw,icheight,icspacer,icwidth,iid,imgid,imgwidth,initilize,inm,Int,lastdiv,lbl,lefthandle,legendb,linkurl,loaddropdown,maxe,maxvalue,menuhtml,Menuitem,menuleft,mouseenter,mouseleave,nav,navfont,navmargin,newfavs,newheight,newhid,newrec,nextfav,noop,Numbera,nwidth,oid,openconsole,Rec,rel,relid,righthandle,scrollspeed,settext,simpled,spacertop,spacertops,src,startcolor,str,subid,tbl,tfont,thisid,thisimg,titleelement,topspacer,tpad,txtholder,txtspacer,vidcount,wdt,wid</dictionary>
 
-/// <disable>IdentifierNameIsMisspelled,AvoidImplicitTypeCoercion,IncorrectNumberOfArguments,DeclareGlobalVariablesBeforeUse,DoNotQuoteObjectLiteralPropertyNames,DeclarePropertiesBeforeUse,DeclareVariablesBeforeUse,NotAllCodePathsReturnValue,DeclareVariablesOnceOnly,PreviousDeclarationWasHere,EnableStrictMode,ConditionalCompilesToConstantValue,DoNotUseCookies,InconsistentReturnType,RemoveDebugCode,SeparateBinaryOperatorArgumentsWithSpaces,UseCPlusPlusStyleComments</disable>
+/// <disable>IdentifierNameIsMisspelled,AvoidImplicitTypeCoercion,DeclareGlobalVariablesBeforeUse,DoNotQuoteObjectLiteralPropertyNames,DeclarePropertiesBeforeUse,DeclareVariablesBeforeUse,NotAllCodePathsReturnValue,DeclareVariablesOnceOnly,PreviousDeclarationWasHere,EnableStrictMode,ConditionalCompilesToConstantValue,DoNotUseCookies</disable>
 
-/// <disable>JS3092,JS3058,JS3057,JS3091,JS3054,JS3053,JS3116</disable>
-/// <disable>DeclarePropertiesBeforeUse,DeclareVariablesBeforeUse,AvoidImplicitTypeCoercion,DeclareGlobalVariablesBeforeUse,NotAllCodePathsReturnValue,IncorrectNumberOfArguments,PreviousDeclarationWasHere</disable>
-/// <disable>JS3092.DeclarePropertiesBeforeUse,JS3058.DeclareVariablesBeforeUse,JS3057.AvoidImplicitTypeCoercion,JS3091.DeclareGlobalVariablesBeforeUse,JS3054.NotAllCodePathsReturnValue,JS3053.IncorrectNumberOfArguments,JS3116.PreviousDeclarationWasHere</disable>
+/// <disable>JS3092,JS3058,JS3057,JS3091,JS3054,JS3053,JS3055,JS2043,JS2029,JS2028,JS3116</disable>
+/// <disable>DeclarePropertiesBeforeUse,DeclareVariablesBeforeUse,AvoidImplicitTypeCoercion,DeclareGlobalVariablesBeforeUse,NotAllCodePathsReturnValue,IncorrectNumberOfArguments,InconsistentReturnType,RemoveDebugCode,MinimizeVerticalSpaceInComments,UseCPlusPlusStyleComments,PreviousDeclarationWasHere</disable>
+/// <disable>JS3092.DeclarePropertiesBeforeUse,JS3058.DeclareVariablesBeforeUse,JS3057.AvoidImplicitTypeCoercion,JS3091.DeclareGlobalVariablesBeforeUse,JS3054.NotAllCodePathsReturnValue,JS3053.IncorrectNumberOfArguments,JS3055.InconsistentReturnType,JS2043.RemoveDebugCode,JS2029.MinimizeVerticalSpaceInComments,JS2028.UseCPlusPlusStyleComments,JS3116.PreviousDeclarationWasHere</disable>
+
 
 
 (function ($) {
@@ -78,14 +79,14 @@
             if (barr.sort === "asc") { data.sort(sortNumbera); }
             if (barr.sort === "desc") { data.sort(sortNumberDesc); }
             var legend = "";
-            var pf = barr.prefix;
+            var prefix = barr.prefix;
             var postfix = barr.postfix;
             var space = barr.barSpace;
             var legendWidth = barr.legend ? barr.legendWidth : 0;
             var fieldWidth = ($(el).width() - legendWidth) / data.length;
             var unique;
             var totalHeight = $(el).height();
-            var leg = new Array();
+            var leg = [];
             max = max(data);
             var colPosition = 0; for (var val in data) {
                 var value;
@@ -112,7 +113,7 @@
                       
             if (barr.type === "multi") {
                 color = "none";
-            } if (lbl == null) { lbl = barr.lbl; } var out = "<div class='graphField" + el.id + "' id='graphField" + unique + "' style='position: absolute'>"; out += "<div class='graphValue" + el.id + "' id='graphValue" + unique + "'>" + pf + value + postfix + "</div>"; out += "<div class='graphBar" + el.id + "' id='graphFieldBar" + unique + "' style='background-color:" + color + ";position: relative; overflow: hidden;'></div>"; if (!barr.legend || barr.legends) {
+            } if (lbl == null) { lbl = barr.lbl; } var out = "<div class='graphField" + el.id + "' id='graphField" + unique + "' style='position: absolute'>"; out += "<div class='graphValue" + el.id + "' id='graphValue" + unique + "'>" + prefix + value + postfix + "</div>"; out += "<div class='graphBar" + el.id + "' id='graphFieldBar" + unique + "' style='background-color:" + color + ";position: relative; overflow: hidden;'></div>"; if (!barr.legend || barr.legends) {
                 out += "<div class='graphLabel" + el.id + "' id='graphLabel" + unique + "'>" + lbl + "</div>";
             }out += "</div>";
             $(el).append(out); var totalHeightBar = totalHeight - $(".graphLabel" + el.id).height() - $(".graphValue" + el.id).height(); var fieldHeight = (totalHeightBar * value) / max;
@@ -159,7 +160,7 @@
 
     };
 
-    $.fn.jqBarGraph.defaults = { barSpace: 10, width: 400, height: 300, color: "#000000", colors: false, lbl: "", sort: false, position: "bottom", pf: "", postfix: "", animate: true, speed: 1.5, legendWidth: 100, legend: false, legends: false, type: false, showValues: true, showValuesColor: "#fff", title: false }; function sortNumbera(a, b) { if (a[0] < b[0]) { return -1; } if (a[0] > b[0]) { return 1; } return 0; }
+    $.fn.jqBarGraph.defaults = { barSpace: 10, width: 400, height: 300, color: "#000000", colors: false, lbl: "", sort: false, position: "bottom", prefix: "", postfix: "", animate: true, speed: 1.5, legendWidth: 100, legend: false, legends: false, type: false, showValues: true, showValuesColor: "#fff", title: false }; function sortNumbera(a, b) { if (a[0] < b[0]) { return -1; } if (a[0] > b[0]) { return 1; } return 0; }
     function sortNumberDesc(a, b) { if (a[0] > b[0]) { return -1; } if (a[0] < b[0]) { return 1; }return 0; }
 })(jQuery);
 
@@ -390,7 +391,7 @@ function makeTopMenu(id) {
 
     if (sec === 1) {
 	if (jQuery.inArray("1", hiddenarr) < 0) {
-menuhtml += '<li class="fl"><a rel="1" class="flink f-1 m" id="store" href="#store">Store, Sync, And Share Your Content</a></li>';
+menuhtml += '<li class="fl"><a rel="1" class="flink f-1 m" id="store" href="#store">Store, sync, and share your content</a></li>';
         }
 		
 		if (jQuery.inArray("2", hiddenarr) < 0) {
@@ -2441,7 +2442,7 @@ $(document).keydown(function (event){
 			cid = currentpage - 1;
 			hidArr = parse(hidden);
 			found = false;		
-	for (var k= cid; k > 0; k--) {
+	for (var k = cid; k > 0; k--) {
 	
 	if ($.inArray(k.toString(), hidArr) < 0) {
 	////console.log(j.toString() + "is good");
@@ -2490,7 +2491,7 @@ $(document).keydown(function (event){
 	});
 	
 	////getHash();
-	
+	//
 	/*
 $('.mntext').each(function(){
 $(this).attr('rel',''+$(this)[0].scrollHeight+'');
@@ -2533,7 +2534,7 @@ function loaddropdown(type) {
 var hide = false;
 var options;
 if (type === "0" || type === "1"){
-hide=true;
+hide = true;
 }else if (type === "2"){
 options = '<option value="0">All Pages</option>' +
   '<optgroup label="Get Started">' +

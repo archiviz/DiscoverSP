@@ -11,3 +11,16 @@ X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\ob
 X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\obj\Release\DiscoverSharepointWeb.dll
 X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\obj\Release\DiscoverSharepointWeb.pdb
 X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\bin\Videos\1cap.txt
+C:\Users\csimeone\Documents\GitHub\DiscoverSP\DiscoverSharepointWeb\bin\Videos\1cap.txt
+C:\Users\csimeone\Documents\GitHub\DiscoverSP\DiscoverSharepointWeb\bin\DiscoverSharepointWeb.dll
+C:\Users\csimeone\Documents\GitHub\DiscoverSP\DiscoverSharepointWeb\bin\DiscoverSharepointWeb.pdb
+C:\Users\csimeone\Documents\GitHub\DiscoverSP\DiscoverSharepointWeb\bin\Microsoft.IdentityModel.dll
+C:\Users\csimeone\Documents\GitHub\DiscoverSP\DiscoverSharepointWeb\bin\Microsoft.IdentityModel.Extensions.dll
+C:\Users\csimeone\Documents\GitHub\DiscoverSP\DiscoverSharepointWeb\bin\Microsoft.SharePoint.Client.dll
+C:\Users\csimeone\Documents\GitHub\DiscoverSP\DiscoverSharepointWeb\bin\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\csimeone\Documents\GitHub\DiscoverSP\DiscoverSharepointWeb\bin\Newtonsoft.Json.dll
+C:\Users\csimeone\Documents\GitHub\DiscoverSP\DiscoverSharepointWeb\bin\Newtonsoft.Json.xml
+C:\Users\csimeone\Documents\GitHub\DiscoverSP\DiscoverSharepointWeb\bin\en\Microsoft.IdentityModel.resources.dll
+C:\Users\csimeone\Documents\GitHub\DiscoverSP\DiscoverSharepointWeb\obj\Release\DiscoverSharepointWeb.csprojResolveAssemblyReference.cache
+C:\Users\csimeone\Documents\GitHub\DiscoverSP\DiscoverSharepointWeb\obj\Release\DiscoverSharepointWeb.dll
+C:\Users\csimeone\Documents\GitHub\DiscoverSP\DiscoverSharepointWeb\obj\Release\DiscoverSharepointWeb.pdb

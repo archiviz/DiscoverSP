@@ -391,7 +391,7 @@ function makeTopMenu(id) {
 
     if (sec === 1) {
 	if (jQuery.inArray("1", hiddenarr) < 0) {
-menuhtml += '<li class="fl"><a rel="1" class="flink f-1 m" id="store" href="#store">Store, Sync, And Share Your Content</a></li>';
+menuhtml += '<li class="fl"><a rel="1" class="flink f-1 m" id="store" href="#store">Store, sync, and share your content</a></li>';
         }
 		
 		if (jQuery.inArray("2", hiddenarr) < 0) {
@@ -1933,7 +1933,7 @@ openconsole();
 	$(document).on({
 click:function (e){
 e.preventDefault();
-  modal.open({ content: '<div style="padding:15px;width:450px;height:205px;background:#fff;font-size:24px;font-family: \'Segoe UI Light\', Helvetica, Arial, sans-serif;"><div>In order to provide analytics informaton, we must gather and store usage data from users of this app. Do you allow Microsoft to gather app usage information from users of this sharepoint tenant?</div><div><input id="adminok" type="submit" value="Yes"><input id="admincancel" type="submit" value="No"></div></div>', type: "image" });	
+modal.open({ content: '<div style="padding:15px;width:450px;height:205px;background:#fff;font-size:24px;font-family: \'Segoe UI Light\', Helvetica, Arial, sans-serif;"><div>In order to use the control panel, data about the use and performance of the app will be collected and transmitted to Microsoft. To learn more, review the Privacy Statement. Do you want to continue ?</div><div><input id="adminok" type="submit" value="Yes"><input id="admincancel" type="submit" value="No"></div></div>', type: "image" });
 }
 	}, "#settings");
 	
@@ -1944,7 +1944,7 @@ $(document).on({
         if (approved !== 0) {
             openconsole();
         } else {
-            modal.open({ content: '<div style="padding:15px;width:450px;height:205px;background:#fff;font-size:24px;font-family: \'Segoe UI Light\', Helvetica, Arial, sans-serif;"><div>In order to provide analytics informaton, we must gather and store usage data from users of this app. Do you allow Microsoft to gather app usage information from users of this sharepoint tenant?</div><div><input id="adminok" type="submit" value="Yes"><input id="admincancel" type="submit" value="No"></div></div>', type: "image" });
+            modal.open({ content: '<div style="padding:15px;width:450px;height:205px;background:#fff;font-size:24px;font-family: \'Segoe UI Light\', Helvetica, Arial, sans-serif;"><div>In order to use the control panel, data about the use and performance of the app will be collected and transmitted to Microsoft. To learn more, review the Privacy Statement. Do you want to continue ?</div><div><input id="adminok" type="submit" value="Yes"><input id="admincancel" type="submit" value="No"></div></div>', type: "image" });
         }
     }
 	}, "#admin");

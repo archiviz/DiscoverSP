@@ -13,3 +13,18 @@ X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\bi
 X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\bin\Videos\1cap.txt
 X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\bin\DiscoverSharepointWeb.dll.lastcodeanalysissucceeded
 X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepointWeb\obj\Debug\DiscoverSharepointWeb.csprojResolveAssemblyReference.cache
+C:\Users\csimeone\Documents\GitHub\DiscoverSP\DiscoverSharepointWeb\obj\Debug\DiscoverSharepointWeb.dll
+C:\Users\csimeone\Documents\GitHub\DiscoverSP\DiscoverSharepointWeb\bin\Videos\1cap.txt
+C:\Users\csimeone\Documents\GitHub\DiscoverSP\DiscoverSharepointWeb\bin\DiscoverSharepointWeb.dll
+C:\Users\csimeone\Documents\GitHub\DiscoverSP\DiscoverSharepointWeb\bin\DiscoverSharepointWeb.pdb
+C:\Users\csimeone\Documents\GitHub\DiscoverSP\DiscoverSharepointWeb\bin\DiscoverSharepointWeb.dll.CodeAnalysisLog.xml
+C:\Users\csimeone\Documents\GitHub\DiscoverSP\DiscoverSharepointWeb\bin\DiscoverSharepointWeb.dll.lastcodeanalysissucceeded
+C:\Users\csimeone\Documents\GitHub\DiscoverSP\DiscoverSharepointWeb\bin\Microsoft.IdentityModel.dll
+C:\Users\csimeone\Documents\GitHub\DiscoverSP\DiscoverSharepointWeb\bin\Microsoft.IdentityModel.Extensions.dll
+C:\Users\csimeone\Documents\GitHub\DiscoverSP\DiscoverSharepointWeb\bin\Microsoft.SharePoint.Client.dll
+C:\Users\csimeone\Documents\GitHub\DiscoverSP\DiscoverSharepointWeb\bin\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\csimeone\Documents\GitHub\DiscoverSP\DiscoverSharepointWeb\bin\Newtonsoft.Json.dll
+C:\Users\csimeone\Documents\GitHub\DiscoverSP\DiscoverSharepointWeb\bin\Newtonsoft.Json.xml
+C:\Users\csimeone\Documents\GitHub\DiscoverSP\DiscoverSharepointWeb\bin\en\Microsoft.IdentityModel.resources.dll
+C:\Users\csimeone\Documents\GitHub\DiscoverSP\DiscoverSharepointWeb\obj\Debug\DiscoverSharepointWeb.pdb
+C:\Users\csimeone\Documents\GitHub\DiscoverSP\DiscoverSharepointWeb\obj\Debug\DiscoverSharepointWeb.csprojResolveAssemblyReference.cache

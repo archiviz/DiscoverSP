@@ -1,1 +1,1 @@
-X:\Current Projects\Moodle\OfficeApp\DiscoverSharepoint\DiscoverSharepoint\bin\Debug\DiscoverSharepoint.debugapp
+C:\Users\csimeone\Documents\GitHub\DiscoverSP\DiscoverSharepoint\bin\Debug\DiscoverSharepoint.debugapp
